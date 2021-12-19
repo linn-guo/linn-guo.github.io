@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>polar coordinates - Tag - Linjing&#39;s Homepage</title>
+        <link>http://linn-guo.github.io/tags/polar-coordinates/</link>
+        <description>polar coordinates - Tag - Linjing&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 07 Dec 2021 10:30:00 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/polar-coordinates/" rel="self" type="application/rss+xml" /><item>
+    <title>Double integral on the elliptical region</title>
+    <link>http://linn-guo.github.io/double_integral_in_polar_coords_2/</link>
+    <pubDate>Tue, 07 Dec 2021 10:30:00 &#43;0800</pubDate>
+    <author>Linjing Guo</author>
+    <guid>http://linn-guo.github.io/double_integral_in_polar_coords_2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/polar_coordinate_2.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item>
+<item>
+    <title>Double integral on the circular region</title>
+    <link>http://linn-guo.github.io/double_integral_in_polar_coords_1/</link>
+    <pubDate>Tue, 07 Dec 2021 10:00:00 &#43;0800</pubDate>
+    <author>Linjing Guo</author>
+    <guid>http://linn-guo.github.io/double_integral_in_polar_coords_1/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/polar_coordinate_1.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item>
+</channel>
+</rss>
