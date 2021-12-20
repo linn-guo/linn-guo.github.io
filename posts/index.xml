@@ -7,39 +7,36 @@
             <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 07 Dec 2021 10:30:00 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Double integral on the elliptical region</title>
     <link>http://linn-guo.github.io/double_integral_in_polar_coords_2/</link>
-    <pubDate>Tue, 07 Dec 2021 10:30:00 &#43;0800</pubDate>
-    <author>Linjing Guo</author>
-    <guid>http://linn-guo.github.io/double_integral_in_polar_coords_2/</guid>
+    <pubDate>Tue, 07 Dec 2021 10:30:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/double_integral_in_polar_coords_2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/polar_coordinate_2.jpeg" referrerpolicy="no-referrer">
             </div>]]></description>
-</item>
-<item>
+</item><item>
     <title>Double integral on the circular region</title>
     <link>http://linn-guo.github.io/double_integral_in_polar_coords_1/</link>
-    <pubDate>Tue, 07 Dec 2021 10:00:00 &#43;0800</pubDate>
-    <author>Linjing Guo</author>
-    <guid>http://linn-guo.github.io/double_integral_in_polar_coords_1/</guid>
+    <pubDate>Tue, 07 Dec 2021 10:00:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/double_integral_in_polar_coords_1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/polar_coordinate_1.jpeg" referrerpolicy="no-referrer">
             </div>]]></description>
-</item>
-<item>
+</item><item>
     <title>An Example for the Nature of Critical Points of Multi-variable Functions</title>
     <link>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</link>
-    <pubDate>Mon, 06 Dec 2021 17:00:00 &#43;0800</pubDate>
-    <author>Linjing Guo</author>
-    <guid>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</guid>
+    <pubDate>Mon, 06 Dec 2021 17:00:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/Nature_of_crit_pts.jpeg" referrerpolicy="no-referrer">
             </div>]]></description>
-</item>
-<item>
+</item><item>
     <title>One Exercise about Lagrange Multiplier</title>
     <link>http://linn-guo.github.io/exs_on_lagrange_multiplier/</link>
-    <pubDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</pubDate>
-    <author>Linjing Guo</author>
-    <guid>http://linn-guo.github.io/exs_on_lagrange_multiplier/</guid>
+    <pubDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/exs_on_lagrange_multiplier/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/featured.png" referrerpolicy="no-referrer">
             </div><p>Three different solutions to one problem.</p>
@@ -47,16 +44,14 @@
 <p>The temperature at a point $(x,y)$ on a metallic floor is $T(x,y)=4x^2-4xy+y^2$.
 Wearing thermocouples shoes that measures temperature, you walk along a circle of radius $5$ centered at the origin on the metallic floor.
 What are the highest and lowest temperatures measured by your shoes?</p>]]></description>
-</item>
-<item>
+</item><item>
     <title>One Exercise about Lagrange Multiplier</title>
     <link>http://linn-guo.github.io/exs_on_lagrange_multiplier_pdf/</link>
-    <pubDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</pubDate>
-    <author>Linjing Guo</author>
-    <guid>http://linn-guo.github.io/exs_on_lagrange_multiplier_pdf/</guid>
+    <pubDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/exs_on_lagrange_multiplier_pdf/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/featured.png" referrerpolicy="no-referrer">
             </div><p>Four different solutions to one problem.</p>]]></description>
-</item>
-</channel>
+</item></channel>
 </rss>
