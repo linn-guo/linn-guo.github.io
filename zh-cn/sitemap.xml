@@ -73,4 +73,22 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/about/"
+                    /></url><url>
+            <loc>http://linn-guo.github.io/zh-cn/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://linn-guo.github.io/authors/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://linn-guo.github.io/zh-cn/authors/"
+                    /></url><url>
+            <loc>http://linn-guo.github.io/zh-cn/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://linn-guo.github.io/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://linn-guo.github.io/zh-cn/series/"
                     /></url></urlset>
