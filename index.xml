@@ -42,8 +42,8 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/featured.png" referrerpolicy="no-referrer">
             </div><p>Three different solutions to one problem.</p>
-<h2 id="question">Question</h2>
-<p>The temperature at a point $(x,y)$ on a metallic floor is $T(x,y)=4x^2-4xy+y^2$.
+<h2 id="question" class="headerLink">
+    <a href="#question" class="header-mark"></a>Question</h2><p>The temperature at a point $(x,y)$ on a metallic floor is $T(x,y)=4x^2-4xy+y^2$.
 Wearing thermocouples shoes that measures temperature, you walk along a circle of radius $5$ centered at the origin on the metallic floor.
 What are the highest and lowest temperatures measured by your shoes?</p>]]></description>
 </item><item>
