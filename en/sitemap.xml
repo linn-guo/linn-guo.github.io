@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://linn-guo.github.io/categories/calculus/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://linn-guo.github.io/categories/calculus/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://linn-guo.github.io/zh-cn/categories/calculus/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="http://linn-guo.github.io/categories/calculus/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/categories/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://linn-guo.github.io/categories/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://linn-guo.github.io/zh-cn/categories/"
@@ -20,9 +20,9 @@
                     hreflang="en"
                     href="http://linn-guo.github.io/categories/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/tags/double-integral/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>http://linn-guo.github.io/double_integral_in_polar_coords_2/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>http://linn-guo.github.io/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://linn-guo.github.io/improper_integral/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/iterated-integral/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://linn-guo.github.io/zh-cn/"
@@ -31,8 +31,8 @@
                     hreflang="en"
                     href="http://linn-guo.github.io/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/tags/polar-coordinates/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>http://linn-guo.github.io/posts/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://linn-guo.github.io/tags/polar-coordinates/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/posts/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://linn-guo.github.io/zh-cn/posts/"
@@ -41,7 +41,7 @@
                     hreflang="en"
                     href="http://linn-guo.github.io/posts/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/tags/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority><xhtml:link
+            <loc>http://linn-guo.github.io/tags/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://linn-guo.github.io/zh-cn/tags/"
@@ -50,6 +50,12 @@
                     hreflang="en"
                     href="http://linn-guo.github.io/tags/"
                     /></url><url>
+            <loc>http://linn-guo.github.io/categories/a-level-math/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/parabola/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/parabola/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/tangent-line/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/double-integral/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/double_integral_in_polar_coords_2/</loc><lastmod>2021-12-07T10:30:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>http://linn-guo.github.io/double_integral_in_polar_coords_1/</loc><lastmod>2021-12-07T10:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</loc><lastmod>2021-12-06T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>http://linn-guo.github.io/tags/critical-points/</loc><lastmod>2021-12-06T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
