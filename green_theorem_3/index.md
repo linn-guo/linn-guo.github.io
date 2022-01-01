@@ -23,7 +23,7 @@ which is a disc without any holes.
 
 The corresponding diagram is as below:
 
-<img src="../img/green_theorem_31.jpeg" align="center" width="70%" alt="caption">
+<img src="../img/green_theorem_31.jpeg" align="center" width="60%" alt="caption">
 
 Next,
 
@@ -59,14 +59,11 @@ $$
 
 For this problem, $r(t)=\begin{pmatrix}1+3\cos t\\\ 3\sin t\end{pmatrix}, 0 \leq t \leq 2\pi$, and hence,
 
-{{< math >}}
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)}=\frac{1}{\pi}\int_C F \cdot dr =\frac{1}{\pi}\int_0^{2\pi} \begin{pmatrix} \frac{-3\sin t}{(1+3\cos t)^2+(3\sin t)^2}\\\ \frac{1+3\cos t}{(1+3\cos t)^2+(3\sin t)^2}\end{pmatrix}  \cdot \begin{pmatrix} -3\sin t\\\ 3\cos t\end{pmatrix}\,dt=...,
 $$
-{{< /math >}}
 
-
-Theoretically, this method should work,but in practice,as  you see the above definite integral is too complicated to handle, so let's try to figure out some other ideas.
+Theoretically, this method should work,but in practice,as you see the above definite integral is too complicated to handle, so let's try to figure out some other ideas.
 
 
 ### Idea 2:
@@ -96,7 +93,7 @@ Hence, Green's Theorem can NOT be applied directly in this case. So what else sh
 We can draw a unit circle, $i.e. C_2:x^2+y^2=1$
 , where  the little hole $O(0,0)$ is within this circle, as shown in the following diagram:
 
-<img src="../img/green_theorem_32.jpeg" align="right" width="100%" alt="caption">
+<img src="../img/green_theorem_32.jpeg" align="center" width="60%" alt="caption">
 
 Where R is is the region between $C_1$ and $C_2$,
 and the boundary of $R$ is $\partial R=C_1-C_2$
