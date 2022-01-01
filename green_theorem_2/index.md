@@ -4,11 +4,9 @@
 ## Question:
 
 Evaluate 
-{{< math >}}
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
 $$
-{{< /math >}}
 
 where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise direction.
 
@@ -17,11 +15,9 @@ where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise dir
 ## Discussion:
 
 Since the curve $C$ is given by $x^2+y^2=1$, the corresponding domain $D$ enclosed by $C$ is:
-{{< math >}}
 $$
 D=\{(x,y): x^2+y^2\le1\}, 
 $$
-{{< /math >}}
 
 which is a disc without any holes.
 
@@ -30,7 +26,9 @@ The corresponding diagram is as below:
 <img src="../img/green_theorem_21.jpeg" align="center" width="70%" alt="caption">
 
 Next,
+
 {{< math >}}
+
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)}=\frac{1}{\pi}\int_C
 \begin{pmatrix}
@@ -44,6 +42,7 @@ dy
 \end{pmatrix}
 =\frac{1}{\pi}\int_C F \cdot dr,
 $$
+
 {{< /math >}}
 
 where $F=\begin{pmatrix}\frac{-y}{x^2+y^2}\\\ \frac{x}{x^2+y^2}\end{pmatrix}=\begin{pmatrix}P\\\ Q\end{pmatrix}$, $dr=\begin{pmatrix} dx\\ dy\end{pmatrix}$, and $r=r(t)$ is the parametric equation of the curve $C$.
@@ -54,20 +53,16 @@ where $F=\begin{pmatrix}\frac{-y}{x^2+y^2}\\\ \frac{x}{x^2+y^2}\end{pmatrix}=\be
 
 Recall, for a vector field $F$, the line integral of $F$ along $C$ is
 
-{{< math >}}
 $$
 \int_C F \cdot dr =\int_a^b F(r(t)) \cdot r'(t)\,dt.
 $$
-{{< /math >}}
 
 For this problem, $r(t)=\begin{pmatrix}\cos t\\\ \sin t\end{pmatrix}, 0 \leq t \leq 2\pi$, and hence,
 
-{{< math >}}
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)}=\frac{1}{\pi}\int_C F \cdot dr =\frac{1}{\pi}\int_0^{2\pi} \begin{pmatrix} -\sin t\\\ \cos t\end{pmatrix}  \cdot \begin{pmatrix} -\sin t\\\ \cos t\end{pmatrix}\,dt 
 =2,
 $$
-{{< /math >}}
 
 
 ### Idea 2:
@@ -79,22 +74,18 @@ Thus, by the test for the conservative vector field, $F$ is conservative on $D$ 
 
 
 Hence, Fundamental Theorem of Line integrals is **NOT** applicable here, which is, we can not perform 
-{{< math >}}
 $$
 \int_C F \cdot dr = f(r(b))-f(r(a)).
 $$
-{{< /math >}}
 
 
 ### Idea 3:
 
 
 As $F$ is undefined at $O(0,0)$,the actual domain of integration in this problem should be 
-{{< math >}}
 $$
 D^*=\{(x,y): x^2+y^2\le1, \text{and } (x,y) \neq (0,0)\}, 
 $$
-{{< /math >}}
 
 which is a disc with a hole,and we call it <span style='color:red'>**non-closed**</span>.
 Hence, Green's Theorem can NOT be applied directly to solve this kind of problem.

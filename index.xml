@@ -4,9 +4,23 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Linjing&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 01 Jan 2022 09:31:11 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 01 Jan 2022 17:31:11 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Discussion of Green&#39;s Theorem (3)</title>
+    <link>http://linn-guo.github.io/green_theorem_3/</link>
+    <pubDate>Sat, 01 Jan 2022 17:31:11 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/green_theorem_3/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/green_theorem_3.jpeg" referrerpolicy="no-referrer">
+            </div><h2 id="question" class="headerLink">
+    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
+$$
+\int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
+$$</p>
+<p>where $C_1$ is the circle $(x-1)^2+y^2=9$, traced in the anti-clockwise direction.</p>]]></description>
+</item><item>
     <title>Discussion of Green&#39;s Theorem (2)</title>
     <link>http://linn-guo.github.io/green_theorem_2/</link>
     <pubDate>Sat, 01 Jan 2022 09:31:11 &#43;0800</pubDate><author>
@@ -16,11 +30,9 @@
                 <img src="/img/green_theorem_22.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="question" class="headerLink">
     <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
-
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
-$$
-</p>
+$$</p>
 <p>where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise direction.</p>]]></description>
 </item><item>
     <title>Typical application of Green&#39;s Theorem (1)</title>
