@@ -182,11 +182,11 @@ where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise dir
                     </span>&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
-        data-src="../img/green_thoerem_22.jpeg"
-        data-srcset="../img/green_thoerem_22.jpeg, ../img/green_thoerem_22.jpeg 1.5x, ../img/green_thoerem_22.jpeg 2x"
+        data-src="../img/green_theorem_22.jpeg"
+        data-srcset="../img/green_theorem_22.jpeg, ../img/green_theorem_22.jpeg 1.5x, ../img/green_theorem_22.jpeg 2x"
         data-sizes="auto"
-        alt="../img/green_thoerem_22.jpeg"
-        title="../img/green_thoerem_22.jpeg" height="auto" width="auto"
+        alt="../img/green_theorem_22.jpeg"
+        title="../img/green_theorem_22.jpeg" height="auto" width="auto"
     /></div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
                     <span>Contents</span>
@@ -210,7 +210,7 @@ $$
 </p>
 <p>which is a disc without any holes.</p>
 <p>The corresponding diagram is as below:</p>
-<img src="../img/green_thoerem_21.jpeg" align="center" width="70%" alt="caption">
+<img src="../img/green_theorem_21.jpeg" align="center" width="70%" alt="caption">
 <p>Next,
 
 $$
@@ -239,14 +239,13 @@ $$
 <p>For this problem, $r(t)=\begin{pmatrix}\cos t\\ \sin t\end{pmatrix}, 0 \leq t \leq 2\pi$, and hence,</p>
 
 $$
-\int_C\frac{xdy-ydx}{\pi(x^2+y^2)}=\frac{1}{\pi}\int_C F \cdot dr =\frac{1}{\pi}\int_0^{2\pi} \begin{pmatrix} -sin t\\\ cos t\end{pmatrix}  \cdot \begin{pmatrix}\ -sin t\\\ \ cos t\end{pmatrix}\,dt 
+\int_C\frac{xdy-ydx}{\pi(x^2+y^2)}=\frac{1}{\pi}\int_C F \cdot dr =\frac{1}{\pi}\int_0^{2\pi} \begin{pmatrix} -\sin t\\\ \cos t\end{pmatrix}  \cdot \begin{pmatrix} -\sin t\\\ \cos t\end{pmatrix}\,dt 
 =2,
 $$
 
 <h3 id="idea-2" class="headerLink">
     <a href="#idea-2" class="header-mark"></a>Idea 2:</h3><p>Assume $ F=\begin{pmatrix}P\\ Q\end{pmatrix}$. We know $F$ is undefined at $O(0,0)$, and then  it&rsquo;s easy to check $P_y=Q_x$ when  $(x,y)$ is on the domain $D$ except the origin $O(0,0)$.</p>
-<p>Thus, by the test for the conservative vector field,</p>
-<p>$F$ is conservative on $D$ excpet $(0,0)$, 
+<p>Thus, by the test for the conservative vector field, $F$ is conservative on $D$ except $(0,0)$, 
 <span style='color:red'><strong>NOT</strong> on the whole region $D$ or for the each point of region $D$.</span></p>
 <p>Hence, Fundamental Theorem of Line integrals is <strong>NOT</strong> applicable here, which is, we can not perform 
 
@@ -258,14 +257,14 @@ $$
     <a href="#idea-3" class="header-mark"></a>Idea 3:</h3><p>As $F$ is undefined at $O(0,0)$,the actual domain of integration in this problem should be 
 
 $$
-D^*=\{(x,y): x^2+y^2\le1, and (x,y) \neq (0,0)\}, 
+D^*=\{(x,y): x^2+y^2\le1, \text{and } (x,y) \neq (0,0)\}, 
 $$
 </p>
 <p>which is a disc with a hole,and we call it <span style='color:red'><strong>non-closed</strong></span>.
 Hence, Green&rsquo;s Theorem can NOT be applied directly to solve this kind of problem.</p>
 <h4 id="span-stylecolorredremarkspan" class="headerLink">
     <a href="#span-stylecolorredremarkspan" class="header-mark"></a><span style='color:red'>Remark:</span></h4><p>One of the requirement for Green&rsquo;s Theorem is the domain must be closed, for example,</p>
-<img src="../img/green_thoerem_22.jpeg" align="right" width="100%" alt="caption">
+<img src="../img/green_theorem_22.jpeg" align="right" width="100%" alt="caption">
 <h2 id="credit" class="headerLink">
     <a href="#credit" class="header-mark"></a>Credit:</h2><p>The question is from Dr. Tuan Seng Chew.</p></div>
 
