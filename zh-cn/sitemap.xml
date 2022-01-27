@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://linn-guo.github.io/zh-cn/categories/calculus/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/categories/calculus/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/categories/calculus/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/categories/calculus/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/zh-cn/categories/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/categories/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/categories/"
@@ -20,7 +20,7 @@
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/zh-cn/tags/lagrange-multiplier/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/tags/lagrange-multiplier/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/tags/lagrange-multiplier/"
@@ -29,7 +29,7 @@
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/tags/lagrange-multiplier/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/zh-cn/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/"
@@ -38,7 +38,7 @@
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/zh-cn/exs_on_lagrange_multiplier/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/exs_on_lagrange_multiplier/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/exs_on_lagrange_multiplier/"
@@ -47,7 +47,7 @@
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/exs_on_lagrange_multiplier/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/zh-cn/posts/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/posts/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/posts/"
@@ -56,7 +56,7 @@
                     hreflang="zh-cn"
                     href="http://linn-guo.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>http://linn-guo.github.io/zh-cn/tags/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>http://linn-guo.github.io/zh-cn/tags/</loc><lastmod>2021-12-04T17:00:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://linn-guo.github.io/tags/"
