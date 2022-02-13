@@ -4,7 +4,16 @@
         <link>http://linn-guo.github.io/categories/linear-algebra/</link>
         <description>linear algebra - Category - Linjing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Feb 2022 19:34:33 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
+    <title>the dimension of eigenspace and the multiplicity of corrsponding eigenvlalue</title>
+    <link>http://linn-guo.github.io/dimesion_eigenspace/</link>
+    <pubDate>Sun, 13 Feb 2022 19:34:33 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/dimesion_eigenspace/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/dimension_eigenspace.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
     <title>change of bases and change of coordinates</title>
     <link>http://linn-guo.github.io/change_basis/</link>
     <pubDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</pubDate><author>
