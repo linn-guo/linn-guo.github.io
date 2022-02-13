@@ -4,9 +4,18 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Linjing&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Feb 2022 16:08:39 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>change of bases and change of coordinates</title>
+    <link>http://linn-guo.github.io/change_basis/</link>
+    <pubDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/change_basis/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/change_of_basis.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
     <title>Prove the linear system of finding the least squares solution is always consistent</title>
     <link>http://linn-guo.github.io/consistent/</link>
     <pubDate>Wed, 02 Feb 2022 16:08:39 &#43;0800</pubDate><author>
@@ -96,15 +105,6 @@ $$</p>
     </author><guid>http://linn-guo.github.io/double_integral_in_polar_coords_1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/polar_coordinate_1.jpeg" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>An Example for the Nature of Critical Points of Multi-variable Functions</title>
-    <link>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</link>
-    <pubDate>Mon, 06 Dec 2021 17:00:00 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/Nature_of_crit_pts.jpeg" referrerpolicy="no-referrer">
             </div>]]></description>
 </item></channel>
 </rss>
