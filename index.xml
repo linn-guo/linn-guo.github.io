@@ -4,9 +4,18 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Linjing&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Feb 2022 19:34:33 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>line integral of a vector filed</title>
+    <link>http://linn-guo.github.io/line-integral/</link>
+    <pubDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/line-integral/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/line_integral_of_vector_field.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
     <title>the dimension of eigenspace and the multiplicity of corrsponding eigenvlalue</title>
     <link>http://linn-guo.github.io/dimesion_eigenspace/</link>
     <pubDate>Sun, 13 Feb 2022 19:34:33 &#43;0800</pubDate><author>
@@ -96,15 +105,6 @@ $$</p>
     </author><guid>http://linn-guo.github.io/parabola/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/parabola.jpeg" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Double integral on the elliptical region</title>
-    <link>http://linn-guo.github.io/double_integral_in_polar_coords_2/</link>
-    <pubDate>Tue, 07 Dec 2021 10:30:00 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/double_integral_in_polar_coords_2/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/polar_coordinate_2.jpeg" referrerpolicy="no-referrer">
             </div>]]></description>
 </item></channel>
 </rss>
