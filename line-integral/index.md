@@ -1,4 +1,4 @@
-# line integral of a vector filed
+# Different perspectives of Line integral of a vector field in parts
 
 
 <!--more-->
