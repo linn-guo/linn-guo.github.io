@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Consistent system on Linjing&#39;s Home</title>
-    <link>http://linn-guo.github.io/tags/consistent-system/</link>
-    <description>Recent content in Consistent system on Linjing&#39;s Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 16:08:39 +0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/consistent-system/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prove the linear system of finding the least squares solution is always consistent</title>
-      <link>http://linn-guo.github.io/post/consistent/</link>
-      <pubDate>Wed, 02 Feb 2022 16:08:39 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/consistent/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Consistent system - Tag - Linjing&#39;s Homepage</title>
+        <link>http://linn-guo.github.io/tags/consistent-system/</link>
+        <description>Consistent system - Tag - Linjing&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Feb 2022 16:08:39 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/consistent-system/" rel="self" type="application/rss+xml" /><item>
+    <title>Prove the linear system of finding the least squares solution is always consistent</title>
+    <link>http://linn-guo.github.io/consistent/</link>
+    <pubDate>Wed, 02 Feb 2022 16:08:39 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/consistent/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/consistent.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
 </rss>

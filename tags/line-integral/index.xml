@@ -1,84 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>line integral on Linjing&#39;s Home</title>
-    <link>http://linn-guo.github.io/tags/line-integral/</link>
-    <description>Recent content in line integral on Linjing&#39;s Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Mar 2022 21:08:11 +0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/line-integral/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Continuing-How can we find a suitable potential function of the conservative field on the different regions (2)?</title>
-      <link>http://linn-guo.github.io/post/choices_potential_functions2/</link>
-      <pubDate>Tue, 08 Mar 2022 21:08:11 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/choices_potential_functions2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How can we find a suitable potential function of the conservative field on the different regions (1)?</title>
-      <link>http://linn-guo.github.io/post/choices_potential_functions1/</link>
-      <pubDate>Tue, 08 Mar 2022 20:57:40 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/choices_potential_functions1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Techniques of a particular type of line integral of vector fields</title>
-      <link>http://linn-guo.github.io/post/zero_line_integral/</link>
-      <pubDate>Tue, 08 Mar 2022 19:58:03 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/zero_line_integral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Different perspectives of Line integral of a vector field in parts</title>
-      <link>http://linn-guo.github.io/post/line-integral/</link>
-      <pubDate>Thu, 24 Feb 2022 21:35:26 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/line-integral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discussion of Green&#39;s Theorem (3)</title>
-      <link>http://linn-guo.github.io/post/green_theorem_3/</link>
-      <pubDate>Sat, 01 Jan 2022 17:31:11 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/green_theorem_3/</guid>
-      <description>&lt;h2 id=&#34;question&#34;&gt;Question:&lt;/h2&gt;
-&lt;p&gt;Evaluate&lt;/p&gt;
-&lt;p&gt;$$
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>line integral - Tag - Linjing&#39;s Homepage</title>
+        <link>http://linn-guo.github.io/tags/line-integral/</link>
+        <description>line integral - Tag - Linjing&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/line-integral/" rel="self" type="application/rss+xml" /><item>
+    <title>Continuing-How can we find a suitable potential function of the conservative field on the different regions (2)?</title>
+    <link>http://linn-guo.github.io/choices_potential_functions2/</link>
+    <pubDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/choices_potential_functions2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/choices_potential_functions2.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>How can we find a suitable potential function of the conservative field on the different regions (1)?</title>
+    <link>http://linn-guo.github.io/choices_potential_functions1/</link>
+    <pubDate>Tue, 08 Mar 2022 20:57:40 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/choices_potential_functions1/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/choices_potential_functions1.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Techniques of a particular type of line integral of vector fields</title>
+    <link>http://linn-guo.github.io/zero_line_integral/</link>
+    <pubDate>Tue, 08 Mar 2022 19:58:03 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/zero_line_integral/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/zero_example_line_integral.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Different perspectives of Line integral of a vector field in parts</title>
+    <link>http://linn-guo.github.io/line-integral/</link>
+    <pubDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/line-integral/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/line_integral_of_vector_field.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Discussion of Green&#39;s Theorem (3)</title>
+    <link>http://linn-guo.github.io/green_theorem_3/</link>
+    <pubDate>Sat, 01 Jan 2022 17:31:11 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/green_theorem_3/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/green_theorem_3.jpeg" referrerpolicy="no-referrer">
+            </div><h2 id="question" class="headerLink">
+    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
+$$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
-$$&lt;/p&gt;
-&lt;p&gt;where $C_1$ is the circle $(x-1)^2+y^2=9$, traced in the anti-clockwise direction.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Discussion of Green&#39;s Theorem (2)</title>
-      <link>http://linn-guo.github.io/post/green_theorem_2/</link>
-      <pubDate>Sat, 01 Jan 2022 09:31:11 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/green_theorem_2/</guid>
-      <description>&lt;h2 id=&#34;question&#34;&gt;Question:&lt;/h2&gt;
-&lt;p&gt;Evaluate&lt;/p&gt;
-&lt;p&gt;$$
+$$</p>
+<p>where $C_1$ is the circle $(x-1)^2+y^2=9$, traced in the anti-clockwise direction.</p>]]></description>
+</item><item>
+    <title>Discussion of Green&#39;s Theorem (2)</title>
+    <link>http://linn-guo.github.io/green_theorem_2/</link>
+    <pubDate>Sat, 01 Jan 2022 09:31:11 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/green_theorem_2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/green_theorem_22.jpeg" referrerpolicy="no-referrer">
+            </div><h2 id="question" class="headerLink">
+    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
+$$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
-$$&lt;/p&gt;
-&lt;p&gt;where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise direction.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Typical application of Green&#39;s Theorem (1)</title>
-      <link>http://linn-guo.github.io/post/green_theorem_1/</link>
-      <pubDate>Fri, 31 Dec 2021 11:23:42 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/green_theorem_1/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+$$</p>
+<p>where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise direction.</p>]]></description>
+</item><item>
+    <title>Typical application of Green&#39;s Theorem (1)</title>
+    <link>http://linn-guo.github.io/green_theorem_1/</link>
+    <pubDate>Fri, 31 Dec 2021 11:23:42 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/green_theorem_1/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/Green_theorem_1.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
 </rss>

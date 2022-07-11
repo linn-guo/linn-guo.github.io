@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>transformation on Linjing&#39;s Home</title>
-    <link>http://linn-guo.github.io/tags/transformation/</link>
-    <description>Recent content in transformation on Linjing&#39;s Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 19:09:33 +0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/transformation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>change of bases and change of coordinates</title>
-      <link>http://linn-guo.github.io/post/change_basis/</link>
-      <pubDate>Sun, 13 Feb 2022 19:09:33 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/change_basis/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>transformation - Tag - Linjing&#39;s Homepage</title>
+        <link>http://linn-guo.github.io/tags/transformation/</link>
+        <description>transformation - Tag - Linjing&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/transformation/" rel="self" type="application/rss+xml" /><item>
+    <title>change of bases and change of coordinates</title>
+    <link>http://linn-guo.github.io/change_basis/</link>
+    <pubDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/change_basis/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/change_of_basis.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
 </rss>

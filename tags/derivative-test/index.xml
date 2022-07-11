@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Derivative Test on Linjing&#39;s Home</title>
-    <link>http://linn-guo.github.io/tags/derivative-test/</link>
-    <description>Recent content in Derivative Test on Linjing&#39;s Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 17:00:00 +0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/derivative-test/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>An Example for the Nature of Critical Points of Multi-variable Functions</title>
-      <link>http://linn-guo.github.io/post/nature_of_crit_pts_of_multivar_func/</link>
-      <pubDate>Mon, 06 Dec 2021 17:00:00 +0800</pubDate>
-      
-      <guid>http://linn-guo.github.io/post/nature_of_crit_pts_of_multivar_func/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Derivative Test - Tag - Linjing&#39;s Homepage</title>
+        <link>http://linn-guo.github.io/tags/derivative-test/</link>
+        <description>Derivative Test - Tag - Linjing&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 06 Dec 2021 17:00:00 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/derivative-test/" rel="self" type="application/rss+xml" /><item>
+    <title>An Example for the Nature of Critical Points of Multi-variable Functions</title>
+    <link>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</link>
+    <pubDate>Mon, 06 Dec 2021 17:00:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/nature_of_crit_pts_of_multivar_func/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/Nature_of_crit_pts.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
 </rss>
