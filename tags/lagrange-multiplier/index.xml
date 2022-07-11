@@ -1,30 +1,29 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Lagrange Multiplier - Tag - Linjing&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/lagrange-multiplier/</link>
-        <description>Lagrange Multiplier - Tag - Linjing&#39;s Homepage</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/lagrange-multiplier/" rel="self" type="application/rss+xml" /><item>
-    <title>One Exercise about Lagrange Multiplier</title>
-    <link>http://linn-guo.github.io/exs_on_lagrange_multiplier/</link>
-    <pubDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/exs_on_lagrange_multiplier/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/featured.png" referrerpolicy="no-referrer">
-            </div><p>Three different solutions to one problem.</p>
-<h2 id="question" class="headerLink">
-    <a href="#question" class="header-mark"></a>Question</h2><p>The temperature at a point $(x,y)$ on a metallic floor is $T(x,y)=4x^2-4xy+y^2$.
-Wearing thermocouples shoes that measures temperature, you walk along a circle of radius $5$ centered at the origin on the metallic floor.
-What are the highest and lowest temperatures measured by your shoes?</p>]]></description>
-</item><item>
-    <title>One Exercise about Lagrange Multiplier</title>
-    <link>http://linn-guo.github.io/exs_on_lagrange_multiplier_pdf/</link>
-    <pubDate>Sat, 04 Dec 2021 17:00:00 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/exs_on_lagrange_multiplier_pdf/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/featured.png" referrerpolicy="no-referrer">
-            </div><p>Four different solutions to one problem.</p>]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lagrange Multiplier on Linjing&#39;s Homepage</title>
+    <link>http://linn-guo.github.io/tags/lagrange-multiplier/</link>
+    <description>Recent content in Lagrange Multiplier on Linjing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Dec 2021 17:00:00 +0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/lagrange-multiplier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Exercise about Lagrange Multiplier</title>
+      <link>http://linn-guo.github.io/post/exs_on_lagrange_multiplier/</link>
+      <pubDate>Sat, 04 Dec 2021 17:00:00 +0800</pubDate>
+      
+      <guid>http://linn-guo.github.io/post/exs_on_lagrange_multiplier/</guid>
+      <description>&lt;p&gt;Three different solutions to one problem.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One Exercise about Lagrange Multiplier</title>
+      <link>http://linn-guo.github.io/post/exs_on_lagrange_multiplier_pdf/</link>
+      <pubDate>Sat, 04 Dec 2021 17:00:00 +0800</pubDate>
+      
+      <guid>http://linn-guo.github.io/post/exs_on_lagrange_multiplier_pdf/</guid>
+      <description>&lt;p&gt;Four different solutions to one problem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
 </rss>

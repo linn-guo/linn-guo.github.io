@@ -1,17 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>component form - Tag - Linjing&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/component-form/</link>
-        <description>component form - Tag - Linjing&#39;s Homepage</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/component-form/" rel="self" type="application/rss+xml" /><item>
-    <title>Different perspectives of Line integral of a vector field in parts</title>
-    <link>http://linn-guo.github.io/line-integral/</link>
-    <pubDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/line-integral/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/line_integral_of_vector_field.jpeg" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>component form on Linjing&#39;s Homepage</title>
+    <link>http://linn-guo.github.io/tags/component-form/</link>
+    <description>Recent content in component form on Linjing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Feb 2022 21:35:26 +0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/component-form/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Different perspectives of Line integral of a vector field in parts</title>
+      <link>http://linn-guo.github.io/post/line-integral/</link>
+      <pubDate>Thu, 24 Feb 2022 21:35:26 +0800</pubDate>
+      
+      <guid>http://linn-guo.github.io/post/line-integral/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
