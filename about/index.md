@@ -59,4 +59,18 @@
 
 <!-- <img src="/photos/food22.jpg" alt="drawing" width="32%"/> -->
 
+## Sceneries outside the window
+
+<img src="/photos/IMG_5318.jpg" alt="drawing" width="32%"/>
+<img src="/photos/IMG_4121.jpg" alt="drawing" width="32%"/>
+<img src="/photos/IMG_4214.jpeg" alt="drawing" width="32%"/>
+
+<img src="/photos/IMG_4219.jpeg" alt="drawing" width="32%"/>
+<img src="/photos/IMG_4220.jpeg" alt="drawing" width="32%"/>
+<img src="/photos/IMG_4217.jpeg" alt="drawing" width="32%"/>
+
+<img src="/photos/IMG_4223.jpeg" alt="drawing" width="32%"/>
+<!-- <img src="/photos/IMG_4296.jpg" alt="drawing" width="32%"/> -->
+<!-- <img src="/photos/IMG_5891.jpeg" alt="drawing" width="32%"/> -->
+
 
