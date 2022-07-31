@@ -23,7 +23,7 @@
 
 ### Snacks
 
-<img src="/photos/IMG_4296.JPG" alt="drawing" width="32%"/>
+<img src="/photos/IMG_4296.jpg" alt="drawing" width="32%"/>
 <img src="/photos/IMG_5891.jpeg" alt="drawing" width="32%"/>
 <img src="/photos/food3.jpg" alt="drawing" width="32%"/>
 
