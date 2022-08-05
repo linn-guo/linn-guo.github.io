@@ -1,4 +1,0 @@
-# About Me
-
-
-## Guo
