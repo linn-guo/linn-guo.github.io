@@ -1,4 +1,4 @@
-# Continuing-How can we find a suitable potential function of the conservative field on the different regions (2)?
+# How can we find a suitable potential function of the conservative field on the different regions (2)?
 
 
 <!--more-->
