@@ -4,9 +4,23 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Linjing&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 05 Aug 2022 19:27:50 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Simple discussion about powers of matrices</title>
+    <link>http://linn-guo.github.io/matrix_power/</link>
+    <pubDate>Fri, 05 Aug 2022 19:27:50 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/matrix_power/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Simple discussion about inverse of a square matrix</title>
+    <link>http://linn-guo.github.io/matrix_inverse/</link>
+    <pubDate>Fri, 05 Aug 2022 19:20:28 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/matrix_inverse/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Continuing-How can we find a suitable potential function of the conservative field on the different regions (2)?</title>
     <link>http://linn-guo.github.io/choices_potential_functions2/</link>
     <pubDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</pubDate><author>
@@ -78,28 +92,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/consistent.jpeg" referrerpolicy="no-referrer">
             </div>]]></description>
-</item><item>
-    <title>Proof of least squares solutions</title>
-    <link>http://linn-guo.github.io/least_squares_solutions/</link>
-    <pubDate>Wed, 02 Feb 2022 09:37:26 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/least_squares_solutions/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/least_squares_solutions.jpeg" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Discussion of Green&#39;s Theorem (3)</title>
-    <link>http://linn-guo.github.io/green_theorem_3/</link>
-    <pubDate>Sat, 01 Jan 2022 17:31:11 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/green_theorem_3/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/green_theorem_3.jpeg" referrerpolicy="no-referrer">
-            </div><h2 id="question" class="headerLink">
-    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
-$$
-\int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
-$$</p>
-<p>where $C_1$ is the circle $(x-1)^2+y^2=9$, traced in the anti-clockwise direction.</p>]]></description>
 </item></channel>
 </rss>
