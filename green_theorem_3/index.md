@@ -109,12 +109,6 @@ $\implies \int_{C_1-C_2}  F \cdot dr =0$,
 $\implies \int_{C_1}F \cdot dr =\int_{C_2}F \cdot dr=2$,based on the result obtained in the last post,say the Discussion of Green's Theorem (2).
 
 
-
-
-
-
-
 ## Credit:
 The question is from Dr. Tuan Seng Chew.
-
 

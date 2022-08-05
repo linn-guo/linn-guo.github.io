@@ -97,8 +97,6 @@ One of the requirement for Green's Theorem is the domain must be closed, for exa
 <img src="../img/green_theorem_22.jpeg" align="right" width="100%" alt="caption">
 
 
-
 ## Credit:
 The question is from Dr. Tuan Seng Chew.
-
 
