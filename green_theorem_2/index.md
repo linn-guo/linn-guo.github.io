@@ -23,7 +23,7 @@ which is a disc without any holes.
 
 The corresponding diagram is as below:
 
-<img src="../img/green_theorem_21.jpeg" align="center" width="70%" alt="caption">
+<img src="../img/green_theorem_21.webp" align="center" width="70%" alt="caption">
 
 Next,
 
@@ -94,7 +94,7 @@ Hence, Green's Theorem can NOT be applied directly to solve this kind of problem
 
 One of the requirement for Green's Theorem is the domain must be closed, for example,
 
-<img src="../img/green_theorem_22.jpeg" align="right" width="100%" alt="caption">
+<img src="../img/green_theorem_22.webp" align="right" width="100%" alt="caption">
 
 
 ## Credit:

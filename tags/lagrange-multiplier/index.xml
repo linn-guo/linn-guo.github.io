@@ -11,7 +11,7 @@
         <name>Linjing Guo</name>
     </author><guid>http://linn-guo.github.io/exs_on_lagrange_multiplier/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/featured.png" referrerpolicy="no-referrer">
+                <img src="/img/featured.webp" referrerpolicy="no-referrer">
             </div><p>Three different solutions to one problem.</p>
 <h2 id="question" class="headerLink">
     <a href="#question" class="header-mark"></a>Question</h2><p>The temperature at a point $(x,y)$ on a metallic floor is $T(x,y)=4x^2-4xy+y^2$.
@@ -24,7 +24,7 @@ What are the highest and lowest temperatures measured by your shoes?</p>]]></des
         <name>Linjing Guo</name>
     </author><guid>http://linn-guo.github.io/exs_on_lagrange_multiplier_pdf/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/featured.png" referrerpolicy="no-referrer">
+                <img src="/img/featured.webp" referrerpolicy="no-referrer">
             </div><p>Four different solutions to one problem.</p>]]></description>
 </item></channel>
 </rss>
