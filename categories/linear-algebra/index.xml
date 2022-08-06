@@ -6,81 +6,81 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
             <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
     <title>Determinant and matrix operations(2)</title>
-    <link>http://linn-guo.github.io/determinant_matrixoperation2/</link>
+    <link>http://linn-guo.github.io/2022/determinant_matrixoperation2/</link>
     <pubDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/determinant_matrixoperation2/</guid>
+    </author><guid>http://linn-guo.github.io/2022/determinant_matrixoperation2/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Determinant and matrix operations(1)</title>
-    <link>http://linn-guo.github.io/determinant_and_matrixoperation/</link>
+    <link>http://linn-guo.github.io/2022/determinant_and_matrixoperation/</link>
     <pubDate>Sat, 06 Aug 2022 17:01:21 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/determinant_and_matrixoperation/</guid>
+    </author><guid>http://linn-guo.github.io/2022/determinant_and_matrixoperation/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Determinant and elementary row operation</title>
-    <link>http://linn-guo.github.io/determinat_ero/</link>
+    <link>http://linn-guo.github.io/2022/determinat_ero/</link>
     <pubDate>Sat, 06 Aug 2022 16:52:36 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/determinat_ero/</guid>
+    </author><guid>http://linn-guo.github.io/2022/determinat_ero/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Simple discussion about powers of matrices</title>
-    <link>http://linn-guo.github.io/matrix_power/</link>
+    <link>http://linn-guo.github.io/2022/matrix_power/</link>
     <pubDate>Fri, 05 Aug 2022 19:27:50 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/matrix_power/</guid>
+    </author><guid>http://linn-guo.github.io/2022/matrix_power/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Simple discussion about inverse of a square matrix</title>
-    <link>http://linn-guo.github.io/matrix_inverse/</link>
+    <link>http://linn-guo.github.io/2022/matrix_inverse/</link>
     <pubDate>Fri, 05 Aug 2022 19:20:28 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/matrix_inverse/</guid>
+    </author><guid>http://linn-guo.github.io/2022/matrix_inverse/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How to prove there are infinitely many generalized eigenvectors of A?</title>
-    <link>http://linn-guo.github.io/generalized_eigenvector/</link>
+    <link>http://linn-guo.github.io/2022/generalized_eigenvector/</link>
     <pubDate>Tue, 08 Mar 2022 20:19:13 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/generalized_eigenvector/</guid>
+    </author><guid>http://linn-guo.github.io/2022/generalized_eigenvector/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/infinitely_generalised_eigenvector.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>the dimension of eigenspace and the multiplicity of corresponding eigenvlalue</title>
-    <link>http://linn-guo.github.io/dimesion_eigenspace/</link>
+    <link>http://linn-guo.github.io/2022/dimesion_eigenspace/</link>
     <pubDate>Sun, 13 Feb 2022 19:34:33 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/dimesion_eigenspace/</guid>
+    </author><guid>http://linn-guo.github.io/2022/dimesion_eigenspace/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/dimension_eigenspace.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>change of bases and change of coordinates</title>
-    <link>http://linn-guo.github.io/change_basis/</link>
+    <link>http://linn-guo.github.io/2022/change_basis/</link>
     <pubDate>Sun, 13 Feb 2022 19:09:33 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/change_basis/</guid>
+    </author><guid>http://linn-guo.github.io/2022/change_basis/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/change_of_basis.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>Prove the linear system of finding the least squares solution is always consistent</title>
-    <link>http://linn-guo.github.io/consistent/</link>
+    <link>http://linn-guo.github.io/2022/consistent/</link>
     <pubDate>Wed, 02 Feb 2022 16:08:39 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/consistent/</guid>
+    </author><guid>http://linn-guo.github.io/2022/consistent/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/consistent.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>Proof of least squares solutions</title>
-    <link>http://linn-guo.github.io/least_squares_solutions/</link>
+    <link>http://linn-guo.github.io/2022/least_squares_solutions/</link>
     <pubDate>Wed, 02 Feb 2022 09:37:26 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/least_squares_solutions/</guid>
+    </author><guid>http://linn-guo.github.io/2022/least_squares_solutions/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/least_squares_solutions.webp" referrerpolicy="no-referrer">
             </div>]]></description>
