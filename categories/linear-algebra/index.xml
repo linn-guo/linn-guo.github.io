@@ -4,7 +4,14 @@
         <link>http://linn-guo.github.io/categories/linear-algebra/</link>
         <description>Linear Algebra - Category - Linjing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 20 Aug 2022 14:42:47 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
+    <title>How to prove using a generalized eigenvector can construct a solution of SDE?</title>
+    <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector/</link>
+    <pubDate>Sat, 20 Aug 2022 14:42:47 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Complex conjugates of eigenvectors and eigenvalues</title>
     <link>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</link>
     <pubDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</pubDate><author>
@@ -72,15 +79,6 @@
     </author><guid>http://linn-guo.github.io/2022/change_basis/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/change_of_basis.webp" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Prove the linear system of finding the least squares solution is always consistent</title>
-    <link>http://linn-guo.github.io/2022/consistent/</link>
-    <pubDate>Wed, 02 Feb 2022 16:08:39 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/2022/consistent/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/consistent.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item></channel>
 </rss>
