@@ -4,9 +4,16 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Linjing&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Complex conjugates of eigenvectors and eigenvalues</title>
+    <link>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</link>
+    <pubDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Determinant and matrix operations(2)</title>
     <link>http://linn-guo.github.io/2022/determinant_matrixoperation2/</link>
     <pubDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</pubDate><author>
@@ -76,15 +83,6 @@
     </author><guid>http://linn-guo.github.io/2022/zero_line_integral/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/zero_example_line_integral.webp" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Different perspectives of Line integral of a vector field in parts</title>
-    <link>http://linn-guo.github.io/2022/line_integral/</link>
-    <pubDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/2022/line_integral/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/line_integral_of_vector_field.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item></channel>
 </rss>
