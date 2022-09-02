@@ -2,14 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://linn-guo.github.io/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/categories/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/categories/calculus/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/categories/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/2022/voluime_torus/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/integral/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/posts/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/torus/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/volume/</loc><lastmod>2022-09-02T18:32:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/tags/diagonalizable/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/2022/discussion_diagonalizablematrix/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/categories/linear-algebra/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/tags/linear-transformation/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/posts/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/</loc><lastmod>2022-09-01T20:07:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/tags/eigenvalue/</loc><lastmod>2022-09-01T19:49:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/tags/singularity/</loc><lastmod>2022-09-01T19:49:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://linn-guo.github.io/2022/eigenvalue_singularity/</loc><lastmod>2022-09-01T19:49:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -33,7 +38,6 @@
             <loc>http://linn-guo.github.io/2022/matrix_power/</loc><lastmod>2022-08-05T19:27:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>http://linn-guo.github.io/tags/matrix-inverse/</loc><lastmod>2022-08-05T19:20:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>http://linn-guo.github.io/2022/matrix_inverse/</loc><lastmod>2022-08-05T19:20:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>http://linn-guo.github.io/categories/calculus/</loc><lastmod>2022-03-08T21:08:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/conservative-field/</loc><lastmod>2022-03-08T21:08:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/2022/choices_potential_functions2/</loc><lastmod>2022-03-08T21:08:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/line-integral/</loc><lastmod>2022-03-08T21:08:11&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
