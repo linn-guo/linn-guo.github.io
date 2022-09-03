@@ -1,4 +1,4 @@
-# How can we use integrals to find the volume of a solid torus?
+# How can we use integrals to find the volume of a donut?
 
 
 <!--more-->
