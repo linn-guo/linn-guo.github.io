@@ -4,7 +4,14 @@
         <link>http://linn-guo.github.io/categories/linear-algebra/</link>
         <description>Linear Algebra - Category - Linjing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 24 Sep 2022 17:12:54 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
+    <title>How to prove using a generalized eigenvector can construct a solution of SDE (2)?</title>
+    <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</link>
+    <pubDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Determine whether three vectors lie on the same plane</title>
     <link>http://linn-guo.github.io/2022/whether_3vectorsinoneplane/</link>
     <pubDate>Sat, 24 Sep 2022 17:12:54 &#43;0800</pubDate><author>
@@ -40,7 +47,7 @@
     </author><guid>http://linn-guo.github.io/2022/solutionsofaxb_aisfullrank/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>How to prove using a generalized eigenvector can construct a solution of SDE?</title>
+    <title>How to prove using a generalized eigenvector can construct a solution of SDE (1)?</title>
     <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector/</link>
     <pubDate>Sat, 20 Aug 2022 14:42:47 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
@@ -66,13 +73,6 @@
     <pubDate>Sat, 06 Aug 2022 17:01:21 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
     </author><guid>http://linn-guo.github.io/2022/determinant_and_matrixoperation/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Determinant and elementary row operation</title>
-    <link>http://linn-guo.github.io/2022/determinat_ero/</link>
-    <pubDate>Sat, 06 Aug 2022 16:52:36 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/2022/determinat_ero/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
