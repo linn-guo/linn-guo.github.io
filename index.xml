@@ -4,9 +4,23 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Linjing&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Discussion about Work Done by a Non-constant Force</title>
+    <link>http://linn-guo.github.io/2022/workdone_nonconstantforce/</link>
+    <pubDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/2022/workdone_nonconstantforce/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>A discussion about intersections of ellipse and axes</title>
+    <link>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</link>
+    <pubDate>Mon, 10 Oct 2022 11:31:23 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>How to prove using a generalized eigenvector can construct a solution of SDE (2)?</title>
     <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</link>
     <pubDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</pubDate><author>
@@ -63,20 +77,6 @@
     <pubDate>Sat, 20 Aug 2022 14:42:47 &#43;0800</pubDate><author>
         <name>Linjing Guo</name>
     </author><guid>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Complex conjugates of eigenvectors and eigenvalues</title>
-    <link>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</link>
-    <pubDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Determinant and matrix operations(2)</title>
-    <link>http://linn-guo.github.io/2022/determinant_matrixoperation2/</link>
-    <pubDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/2022/determinant_matrixoperation2/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
