@@ -23,7 +23,7 @@ which is a disc without any holes.
 
 The corresponding diagram is as below:
 
-<img src="../img/green_theorem_31.webp" align="center" width="60%" alt="caption">
+<img src="../../img/green_theorem_31.webp" align="center" width="60%" alt="caption">
 
 Next,
 
@@ -93,7 +93,7 @@ Hence, Green's Theorem can NOT be applied directly in this case. So what else sh
 We can draw a unit circle, $i.e. C_2:x^2+y^2=1$
 , where  the little hole $O(0,0)$ is within this circle, as shown in the following diagram:
 
-<img src="../img/green_theorem_32.webp" align="center" width="60%" alt="caption">
+<img src="../../img/green_theorem_32.webp" align="center" width="60%" alt="caption">
 
 Where R is is the region between $C_1$ and $C_2$,
 and the boundary of $R$ is $\partial R=C_1-C_2$
