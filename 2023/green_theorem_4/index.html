@@ -243,39 +243,48 @@ dy
 <p>Thus, by the test for the conservative vector field, $F$ is conservative on $D$ except $(0,0)$,
 <span style='color:red'><strong>NOT</strong> on the whole region $D$ or for the each point of region $D$.</span></p>
 <p>Hence, Fundamental Theorem of Line integrals is <strong>NOT</strong> applicable here, which is, we can not perform
+
 $$
 \int_C F \cdot dr = f(r(b))-f(r(a)).
-$$</p>
+$$
+</p>
 <h3 id="idea-3" class="headerLink">
     <a href="#idea-3" class="header-mark"></a>Idea 3:</h3><p>As $F$ is undefined at $O(0,0)$,the actual domain of integration in this problem should be
+
 $$
-D^*={(x,y): D, \text{and } (x,y) \neq (0,0)},
-$$</p>
+D^*=\{(x,y): D, \text{and } (x,y) \neq (0,0)\}, 
+$$
+</p>
 <p>which is a rectangular region with a hole,and we call it <span style='color:red'><strong>non-closed</strong></span>.
 Hence, Green&rsquo;s Theorem can NOT be applied directly to solve this kind of problem.
 So what else shall we do?
-We can draw a unit circle, $i.e. C_2:x^2+y^2=1$
-, where  the little hole $O(0,0)$ is within this circle, as shown in the following diagram:</p>
+We can draw a unit circle, $i.e. C_2:x^2+y^2=1$, where  the little hole $O(0,0)$ is within this circle, as shown in the following diagram:</p>
 <img src="../../img/green4_3.png" align="center" width="60%" alt="caption">
 <p>Where R is is the region between $C$ and $C_1$,
-and the boundary of $R$ is $\partial R=C_-C_1$</p>
+and the boundary of $R$ is $\partial R=C-C_1$</p>
 <p>By the Green&rsquo;s Theorem,</p>
-<p>$$
-\oint_{\partial R}  F \cdot dr =\iint_R (Q_x-P_y)dx =0,
+<p>
 $$
+\oint_{\partial R}  F \cdot dr =\iint_R (Q_x-P_y)dx =0, 
+$$
+
 as $P_y=Q_x$ is conservative on the region $R$.</p>
 <p>$\implies \int_{C_-C_1}  F \cdot dr =0$,
 $\implies \int_{C}F \cdot dr =\int_{C_1}F \cdot dr=2\pi$,based on the result obtained in the remark below .</p>
 <h4 id="span-stylecolorredremarkspan" class="headerLink">
     <a href="#span-stylecolorredremarkspan" class="header-mark"></a><span style='color:red'>Remark:</span></h4><p>(1) Recall, for a vector field $F$, the line integral of $F$ along $C$ is</p>
-<p>$$
-\int_C F \cdot dr =\int_a^b F(r(t)) \cdot r&rsquo;(t),dt.
-$$</p>
+
+$$
+\int_C F \cdot dr =\int_a^b F(r(t)) \cdot r'(t)\, dt.
+$$
+
 <p>For $C_1$ in this problem, $r(t)=\begin{pmatrix}\cos t\\ \sin t\end{pmatrix}, 0 \leq t \leq 2\pi$, and hence,</p>
-<p>$$
-\int_C\frac{xdy-ydx}{(x^2+y^2)}=\int_C F \cdot dr =\int_0^{2\pi} \begin{pmatrix} -\sin t\\ \cos t\end{pmatrix}  \cdot \begin{pmatrix} -\sin t\\ \cos t\end{pmatrix},dt
+
+$$
+\int_C\frac{xdy-ydx}{(x^2+y^2)}=\int_C F \cdot dr =\int_0^{2\pi} \begin{pmatrix} -\sin t\\\ \cos t\end{pmatrix}  \cdot \begin{pmatrix} -\sin t\\\ \cos t\end{pmatrix}\,dt 
 =2 \pi,
-$$</p>
+$$
+
 <p>(2) One of the requirement for Green&rsquo;s Theorem is the domain must be closed, for example,</p>
 <img src="../../img/green_theorem_22.webp" align="right" width="100%" alt="caption">
 <h2 id="credit" class="headerLink">
