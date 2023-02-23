@@ -4,7 +4,20 @@
         <link>http://linn-guo.github.io/categories/calculus/</link>
         <description>Calculus - Category - Linjing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/calculus/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/calculus/" rel="self" type="application/rss+xml" /><item>
+    <title>Similar example for Discussion of Green&#39;s Theorem (4)</title>
+    <link>http://linn-guo.github.io/2023/green_theorem_4/</link>
+    <pubDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</pubDate><author>
+        <name>Linjing Guo</name>
+    </author><guid>http://linn-guo.github.io/2023/green_theorem_4/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/green4.webp" referrerpolicy="no-referrer">
+            </div><h2 id="question" class="headerLink">
+    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate
+$$
+\int_C\frac{x}{x^2+y^2}dy-\frac{y}{x^2+y^2}dx$$</p>
+<p>where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,-3)$, taken in the anti-clockwise direction.</p>]]></description>
+</item><item>
     <title>Discussion about Work Done by a Non-constant Force</title>
     <link>http://linn-guo.github.io/2022/workdone_nonconstantforce/</link>
     <pubDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</pubDate><author>
@@ -72,7 +85,7 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green_theorem_3.webp" referrerpolicy="no-referrer">
             </div><h2 id="question" class="headerLink">
-    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
+    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
 $$</p>
@@ -86,19 +99,10 @@ $$</p>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green_theorem_22.webp" referrerpolicy="no-referrer">
             </div><h2 id="question" class="headerLink">
-    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate 
+    <a href="#question" class="header-mark"></a>Question:</h2><p>Evaluate
 $$
 \int_C\frac{xdy-ydx}{\pi(x^2+y^2)},
 $$</p>
 <p>where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise direction.</p>]]></description>
-</item><item>
-    <title>Typical application of Green&#39;s Theorem (1)</title>
-    <link>http://linn-guo.github.io/2021/green_theorem_1/</link>
-    <pubDate>Fri, 31 Dec 2021 11:23:42 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
-    </author><guid>http://linn-guo.github.io/2021/green_theorem_1/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/Green_theorem_1.webp" referrerpolicy="no-referrer">
-            </div>]]></description>
 </item></channel>
 </rss>
