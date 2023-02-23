@@ -12,7 +12,8 @@ where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,
 <!--more-->
 
 ## Discussion:
-Idea 1:
+
+### Idea 1:
 The curve $C$ consists of $C_1 :y=3, 2\leq x \leq -2$,$C_2 :x=-2, 3\leq y \leq -3$, $C_3 :y=3, -2\leq x \leq 2$,$C_4 :x=2, -3\leq y \leq 3$, and the diagram is given as below:
 
 <img src="../../img/green4_1.png" align="center" width="70%" alt="caption">
@@ -31,9 +32,7 @@ $$
 & =\int_{-2}^{2}\frac{3}{x^2+9}dx \;+\;\int_{-3}^{3}\frac{2}{4+y^2}dy \;+\;\int_{-2}^{2}\frac{3}{x^2+9}dx \;+\; \int_{-3}^{3}\frac{2}{4+y^2}dy \\
 & =2 \Big(\int_{-2}^{2}\frac{3}{x^2+9}dx \;+\;\int_{-3}^{3}\frac{2}{4+y^2}dy \Big) \\
 & =4 \Big(\int_{0}^{2}\frac{3}{x^2+9}dx \;+\;\int_{0}^{3}\frac{2}{4+y^2}dy \Big) \\
-& =4 \Big(
-  \frac{1}{3} \int_{0}^{2} \frac{1} {(\frac{x}{3})^2+1}dx + \frac{1}{2} \int_{0}^{3}\frac{1}{1+(\frac{y}{2})^2}dy
-  \Big) \\
+& =4 \Big(\frac{1}{3} \int_{0}^{2} \frac{1} {(\frac{x}{3})^2+1}dx + \frac{1}{2} \int_{0}^{3}\frac{1}{1+(\frac{y}{2})^2}dy\Big) \\
 & =4 \Big(\int_{0}^{2}\frac{1}{(\frac{x}{3})^2+1}d\Big(\frac{x}{3}\Big) + \int_{0}^{3}\frac{1}{1+(\frac{y}{2})^2}d\Big(\frac{y}{2}\Big) \Big) \\
 & =4\Big(\arctan\Big(\frac{x}{3}\Big)\Big|_{x=0}^{x=2} + \arctan\Big(\frac{y}{2}\Big)\Big|_{y=0}^{y=3}\Big) \\
 & =4 \Big(\arctan\Big(\frac{2}{3}\Big) + \arctan\Big(\frac{3}{2}\Big)\Big) \\
@@ -42,7 +41,7 @@ $$
 $$
 {{< /math >}}
 
-Idea 2 &3
+Idea 2 & 3
  
 The corresponding domain $D$ enclosed by $C$ is given as below:
 
