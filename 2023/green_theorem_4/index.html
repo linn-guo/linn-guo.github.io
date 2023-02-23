@@ -44,7 +44,7 @@ where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "http:\/\/linn-guo.github.io\/2023\/green_theorem_4\/"
-        },"image": ["http:\/\/linn-guo.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "Green\u0027s Theorem, Line Integral, Vector Field","wordcount":  499 ,
+        },"image": ["http:\/\/linn-guo.github.io\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "Green\u0027s Theorem, Line Integral, Vector Field","wordcount":  502 ,
         "url": "http:\/\/linn-guo.github.io\/2023\/green_theorem_4\/","datePublished": "2023-02-23T10:17:00+08:00","dateModified": "2023-02-23T10:17:00+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": {
@@ -151,7 +151,7 @@ where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,
             <div class="post-meta-line">
                 <span class="post-author"><i class="author fas fa-user-circle fa-fw"></i><a href="http://linn-guo.github.io/" title="Author" target="_blank" rel="noopener noreferrer author" class="author">Linjing Guo</a>
                 </span>&nbsp;<span class="post-category">included in </span>&nbsp;<span class="post-category">category <a href="/categories/calculus/"><i class="far fa-folder fa-fw"></i>Calculus</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-02-23">2023-02-23</time>&nbsp;<i class="far fa-edit fa-fw"></i>&nbsp;<time datetime="2023-02-23">2023-02-23</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;499 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-02-23">2023-02-23</time>&nbsp;<i class="far fa-edit fa-fw"></i>&nbsp;<time datetime="2023-02-23">2023-02-23</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;502 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;<span id="/2023/green_theorem_4/" class="leancloud_visitors" data-flag-title="Similar example for Discussion of Green&#39;s Theorem (4)">
                         <i class="far fa-eye fa-fw"></i>&nbsp;<span class="leancloud-visitors-count" id=twikoo_visitors></span>&nbsp;views
                     </span>&nbsp;<span id="/2023/green_theorem_4/" class="comment_count" data-flag-title="Similar example for Discussion of Green&#39;s Theorem (4)">
@@ -207,8 +207,10 @@ $$
 & =\int_{-2}^{2}\frac{3}{x^2+9}dx \;+\;\int_{-3}^{3}\frac{2}{4+y^2}dy \;+\;\int_{-2}^{2}\frac{3}{x^2+9}dx \;+\; \int_{-3}^{3}\frac{2}{4+y^2}dy \\
 & =2 \Big(\int_{-2}^{2}\frac{3}{x^2+9}dx \;+\;\int_{-3}^{3}\frac{2}{4+y^2}dy \Big) \\
 & =4 \Big(\int_{0}^{2}\frac{3}{x^2+9}dx \;+\;\int_{0}^{3}\frac{2}{4+y^2}dy \Big) \\
-& =4 \Big(\frac{1}{3} \int_{0}^{2}\frac{1}{{(\frac{x}{3})}^2+1}dx \;+\; \frac{1}{2} \int_{0}^{3}\frac{1}{1+{(\frac{y}{2})}^2}dy \Big) \\
-& =4 \Big(\int_{0}^{2}\frac{1}{{(\frac{x}{3})}^2+1}d\Big(\frac{x}{3}\Big) + \int_{0}^{3}\frac{1}{1+{(\frac{y}{2})}^2}d\Big(\frac{y}{2}\Big) \Big) \\
+& =4 \Big(
+  \frac{1}{3} \int_{0}^{2} \frac{1} {(\frac{x}{3})^2+1}dx + \frac{1}{2} \int_{0}^{3}\frac{1}{1+(\frac{y}{2})^2}dy
+  \Big) \\
+& =4 \Big(\int_{0}^{2}\frac{1}{(\frac{x}{3})^2+1}d\Big(\frac{x}{3}\Big) + \int_{0}^{3}\frac{1}{1+(\frac{y}{2})^2}d\Big(\frac{y}{2}\Big) \Big) \\
 & =4\Big(\arctan\Big(\frac{x}{3}\Big)\Big|_{x=0}^{x=2} + \arctan\Big(\frac{y}{2}\Big)\Big|_{y=0}^{y=3}\Big) \\
 & =4 \Big(\arctan\Big(\frac{2}{3}\Big) + \arctan\Big(\frac{3}{2}\Big)\Big) \\
 & =4 \Big(\frac{\pi}{2}\Big)=2{\pi}
