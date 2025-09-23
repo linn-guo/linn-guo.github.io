@@ -4,9 +4,7 @@
 ## Question:
 
 Evaluate 
-$$
-\int_C\frac{x}{x^2+y^2}dy-\frac{y}{x^2+y^2}dx$$
-
+$$\int_C\frac{x}{x^2+y^2}dy-\frac{y}{x^2+y^2}dx$$
 where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,-3)$, taken in the anti-clockwise direction.
 
 <!--more-->
