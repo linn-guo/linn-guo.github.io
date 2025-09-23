@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Linjing&#39;s Homepage</title>
+        <title>Lynn&#39;s Homepage</title>
         <link>http://linn-guo.github.io/</link>
-        <description>Welcome to Linjing&#39;s Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Linjing Guo)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Linjing Guo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</lastBuildDate>
+        <description>Welcome to Lynn Linjing&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn Linjing)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Lynn Linjing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Similar example for Discussion of Green&#39;s Theorem (4)</title>
     <link>http://linn-guo.github.io/2023/green_theorem_4/</link>
     <pubDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2023/green_theorem_4/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green4.webp" referrerpolicy="no-referrer">
@@ -23,42 +23,42 @@ $$
     <title>Discussion about Work Done by a Non-constant Force</title>
     <link>http://linn-guo.github.io/2022/workdone_nonconstantforce/</link>
     <pubDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/workdone_nonconstantforce/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>A discussion about intersections of ellipse and axes</title>
     <link>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</link>
     <pubDate>Mon, 10 Oct 2022 11:31:23 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How to prove using a generalized eigenvector can construct a solution of SDE (2)?</title>
     <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</link>
     <pubDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Determine whether three vectors lie on the same plane</title>
     <link>http://linn-guo.github.io/2022/whether_3vectorsinoneplane/</link>
     <pubDate>Sat, 24 Sep 2022 17:12:54 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/whether_3vectorsinoneplane/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How is the input vector being transformed under a linear transformation?</title>
     <link>http://linn-guo.github.io/2022/effect_lineartransformation/</link>
     <pubDate>Sun, 04 Sep 2022 20:24:28 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/effect_lineartransformation/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How can we use integrals to find the volume of a donut?</title>
     <link>http://linn-guo.github.io/2022/voluime_torus/</link>
     <pubDate>Fri, 02 Sep 2022 18:32:18 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/voluime_torus/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/donut.png" referrerpolicy="no-referrer">
@@ -67,21 +67,21 @@ $$
     <title>Discussion about diagonalizable Matrices</title>
     <link>http://linn-guo.github.io/2022/discussion_diagonalizablematrix/</link>
     <pubDate>Thu, 01 Sep 2022 20:07:31 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/discussion_diagonalizablematrix/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Why can we use eigenvalue 0 to determine singularity of Matrices?</title>
     <link>http://linn-guo.github.io/2022/eigenvalue_singularity/</link>
     <pubDate>Thu, 01 Sep 2022 19:49:28 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/eigenvalue_singularity/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Discussion about solutions of Ax=b when A is full rank</title>
     <link>http://linn-guo.github.io/2022/solutionsofaxb_aisfullrank/</link>
     <pubDate>Sun, 28 Aug 2022 18:16:51 &#43;0800</pubDate><author>
-        <name>Linjing Guo</name>
+        <name>Lynn Linjing</name>
     </author><guid>http://linn-guo.github.io/2022/solutionsofaxb_aisfullrank/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
