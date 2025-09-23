@@ -3,7 +3,7 @@
 
 <!--more-->
 
-<iframe src="./pdf/parabola.pdf" height="1100px" width="100%"></iframe>
+<iframe src="./parabola.pdf" height="1100px" width="100%"></iframe>
 
 ## Credit:
 The question is from Dr. Lim ZhiHan.

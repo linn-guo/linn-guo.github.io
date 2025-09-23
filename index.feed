@@ -291,7 +291,7 @@
         "date_modified" : "2021-12-29T15:29:17+08:00",
         "id" : "http://linn-guo.github.io/2021/parabola/",
         "url" : "http://linn-guo.github.io/2021/parabola/",
-        "content_html" : "\u003ciframe src=\"./pdf/parabola.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"./parabola.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
         "language": "en"
     },
     {
