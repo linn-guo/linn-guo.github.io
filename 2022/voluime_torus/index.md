@@ -3,7 +3,7 @@
 
 <!--more-->
 
-<iframe src="/pdf/volume_torus.pdf" height="1100px" width="100%"></iframe>
+<iframe src="./pdf/volume_torus.pdf" height="1100px" width="100%"></iframe>
 
 
 

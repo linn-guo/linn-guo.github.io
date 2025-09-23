@@ -2,7 +2,7 @@
 
 
 <!--more-->
-<iframe src="/pdf/Effect_LinearTransformation.pdf" height="1100px" width="100%"></iframe>
+<iframe src="./pdf/Effect_LinearTransformation.pdf" height="1100px" width="100%"></iframe>
 
 
 
