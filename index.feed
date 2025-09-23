@@ -1,13 +1,13 @@
 {
     "version" : "https://jsonfeed.org/version/1.1",
-    "title" : "Lynn's Homepage",
-    "description": "Welcome to Lynn Linjing's Site",
+    "title" : "Lynn G's Homepage",
+    "description": "Welcome to Lynn G's Site",
     "home_page_url" : "http://linn-guo.github.io/",
     "feed_url" : "http://linn-guo.github.io/index.feed",
     "icon" : "http://linn-guo.github.io/apple-touch-icon.png",
     "favicon" : "http://linn-guo.github.io/favicon.ico",
     "author" : {
-        "name" : "Lynn Linjing",
+        "name" : "Lynn G",
         "url": "http://linn-guo.github.io/",
         "avatar": "http://linn-guo.github.io/images/avatar.png"
     },

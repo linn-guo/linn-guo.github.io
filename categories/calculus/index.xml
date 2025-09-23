@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Calculus - Category - Lynn&#39;s Homepage</title>
+        <title>Calculus - Category - Lynn G&#39;s Homepage</title>
         <link>http://linn-guo.github.io/categories/calculus/</link>
-        <description>Calculus - Category - Lynn&#39;s Homepage</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn Linjing)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn Linjing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 23 Sep 2025 13:49:04 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/calculus/" rel="self" type="application/rss+xml" /><item>
+        <description>Calculus - Category - Lynn G&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 23 Sep 2025 13:49:04 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/calculus/" rel="self" type="application/rss+xml" /><item>
     <title>Kids University</title>
     <link>http://linn-guo.github.io/2025/kids_university/</link>
     <pubDate>Tue, 23 Sep 2025 13:49:04 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2025/kids_university/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Similar example for Discussion of Green&#39;s Theorem (4)</title>
     <link>http://linn-guo.github.io/2023/green_theorem_4/</link>
     <pubDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2023/green_theorem_4/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green4.webp" referrerpolicy="no-referrer">
@@ -28,21 +28,21 @@
     <title>Discussion about Work Done by a Non-constant Force</title>
     <link>http://linn-guo.github.io/2022/workdone_nonconstantforce/</link>
     <pubDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/workdone_nonconstantforce/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>A discussion about intersections of ellipse and axes</title>
     <link>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</link>
     <pubDate>Mon, 10 Oct 2022 11:31:23 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How can we use integrals to find the volume of a donut?</title>
     <link>http://linn-guo.github.io/2022/voluime_torus/</link>
     <pubDate>Fri, 02 Sep 2022 18:32:18 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/voluime_torus/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/donut.png" referrerpolicy="no-referrer">
@@ -51,7 +51,7 @@
     <title>How can we find a suitable potential function of the conservative field on the different regions (2)?</title>
     <link>http://linn-guo.github.io/2022/choices_potential_functions2/</link>
     <pubDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/choices_potential_functions2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/choices_potential_functions2.webp" referrerpolicy="no-referrer">
@@ -60,7 +60,7 @@
     <title>How can we find a suitable potential function of the conservative field on the different regions (1)?</title>
     <link>http://linn-guo.github.io/2022/choices_potential_functions1/</link>
     <pubDate>Tue, 08 Mar 2022 20:57:40 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/choices_potential_functions1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/choices_potential_functions1.webp" referrerpolicy="no-referrer">
@@ -69,7 +69,7 @@
     <title>Techniques of a particular type of line integral of vector fields</title>
     <link>http://linn-guo.github.io/2022/zero_line_integral/</link>
     <pubDate>Tue, 08 Mar 2022 19:58:03 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/zero_line_integral/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/zero_example_line_integral.webp" referrerpolicy="no-referrer">
@@ -78,7 +78,7 @@
     <title>Different perspectives of Line integral of a vector field in parts</title>
     <link>http://linn-guo.github.io/2022/line_integral/</link>
     <pubDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/line_integral/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/line_integral_of_vector_field.webp" referrerpolicy="no-referrer">
@@ -87,7 +87,7 @@
     <title>Discussion of Green&#39;s Theorem (3)</title>
     <link>http://linn-guo.github.io/2022/green_theorem_3/</link>
     <pubDate>Sat, 01 Jan 2022 17:31:11 &#43;0800</pubDate><author>
-        <name>Lynn Linjing</name>
+        <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/green_theorem_3/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green_theorem_3.webp" referrerpolicy="no-referrer">
