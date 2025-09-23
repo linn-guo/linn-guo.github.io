@@ -28,7 +28,7 @@
         "date_modified" : "2022-10-10T11:38:32+08:00",
         "id" : "http://linn-guo.github.io/2022/workdone_nonconstantforce/",
         "url" : "http://linn-guo.github.io/2022/workdone_nonconstantforce/",
-        "content_html" : "\u003ciframe src=\"./pdf/WorkDone_NonconstantForce.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/WorkDone_NonconstantForce.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e",
         "language": "en"
     }
     {
@@ -37,7 +37,7 @@
         "date_modified" : "2022-10-10T11:31:23+08:00",
         "id" : "http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/",
         "url" : "http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/",
-        "content_html" : "\u003ciframe src=\"./pdf/Discussion_ParametricEquation_Ellipse.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Discussion_ParametricEquation_Ellipse.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e",
         "language": "en"
     },
     {
@@ -46,7 +46,7 @@
         "date_modified" : "2022-09-27T16:50:46+08:00",
         "id" : "http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/",
         "url" : "http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/",
-        "content_html" : "\u003ciframe src=\"./pdf/SecondSolution_GeneralizedEigenvector2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/SecondSolution_GeneralizedEigenvector2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e",
         "language": "en"
     },
     {
@@ -55,7 +55,7 @@
         "date_modified" : "2022-09-24T17:12:54+08:00",
         "id" : "http://linn-guo.github.io/2022/whether_3vectorsinoneplane/",
         "url" : "http://linn-guo.github.io/2022/whether_3vectorsinoneplane/",
-        "content_html" : "\u003ciframe src=\"./pdf/Whether_3VectorsInOnePlane.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit-the-question-is-from-professor-victor-tan\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit-the-question-is-from-professor-victor-tan\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit: The question is from Professor Victor Tan\u003c/h2\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Whether_3VectorsInOnePlane.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit-the-question-is-from-professor-victor-tan\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit-the-question-is-from-professor-victor-tan\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit: The question is from Professor Victor Tan\u003c/h2\u003e",
         "language": "en"
     },
     {
@@ -64,7 +64,7 @@
         "date_modified" : "2022-09-04T20:24:28+08:00",
         "id" : "http://linn-guo.github.io/2022/effect_lineartransformation/",
         "url" : "http://linn-guo.github.io/2022/effect_lineartransformation/",
-        "content_html" : "\u003ciframe src=\"./pdf/Effect_LinearTransformation.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eBased on the question from Professor Victor Tan\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Effect_LinearTransformation.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eBased on the question from Professor Victor Tan\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -73,7 +73,7 @@
         "date_modified" : "2022-09-02T18:32:18+08:00",
         "id" : "http://linn-guo.github.io/2022/voluime_torus/",
         "url" : "http://linn-guo.github.io/2022/voluime_torus/",
-        "content_html" : "\u003ciframe src=\"./pdf/volume_torus.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/volume_torus.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -82,7 +82,7 @@
         "date_modified" : "2022-09-01T20:07:31+08:00",
         "id" : "http://linn-guo.github.io/2022/discussion_diagonalizablematrix/",
         "url" : "http://linn-guo.github.io/2022/discussion_diagonalizablematrix/",
-        "content_html" : "\u003ciframe src=\"./pdf/Discussion_DiagonalizableMatrix.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eBased on the question from Professor Victor Tan\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Discussion_DiagonalizableMatrix.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eBased on the question from Professor Victor Tan\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -91,7 +91,7 @@
         "date_modified" : "2022-09-01T19:49:28+08:00",
         "id" : "http://linn-guo.github.io/2022/eigenvalue_singularity/",
         "url" : "http://linn-guo.github.io/2022/eigenvalue_singularity/",
-        "content_html" : "\u003ciframe src=\"./pdf/eigenvalue_singularity.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/eigenvalue_singularity.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -100,7 +100,7 @@
         "date_modified" : "2022-08-28T18:16:51+08:00",
         "id" : "http://linn-guo.github.io/2022/solutionsofaxb_aisfullrank/",
         "url" : "http://linn-guo.github.io/2022/solutionsofaxb_aisfullrank/",
-        "content_html" : "\u003ciframe src=\"./pdf/SolutionsOfAx=b_AisFullRank.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Professor Victor Tan.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/SolutionsOfAx=b_AisFullRank.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Professor Victor Tan.\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -109,7 +109,7 @@
         "date_modified" : "2022-08-20T14:42:47+08:00",
         "id" : "http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector/",
         "url" : "http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector/",
-        "content_html" : "\u003ciframe src=\"./pdf/SecondSolution_GeneralizedEigenvector1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/SecondSolution_GeneralizedEigenvector1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -118,7 +118,7 @@
         "date_modified" : "2022-08-20T08:58:56+08:00",
         "id" : "http://linn-guo.github.io/2022/complexconjugate_eigenvectors/",
         "url" : "http://linn-guo.github.io/2022/complexconjugate_eigenvectors/",
-        "content_html" : "\u003ciframe src=\"./pdf/ComplexConjugate_eigenvectors.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/ComplexConjugate_eigenvectors.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -127,7 +127,7 @@
         "date_modified" : "2022-08-06T17:05:15+08:00",
         "id" : "http://linn-guo.github.io/2022/determinant_matrixoperation2/",
         "url" : "http://linn-guo.github.io/2022/determinant_matrixoperation2/",
-        "content_html" : "\u003ciframe src=\"./pdf/Determinant_and_MatrixOperation_2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Determinant_and_MatrixOperation_2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -136,7 +136,7 @@
         "date_modified" : "2022-08-06T17:01:21+08:00",
         "id" : "http://linn-guo.github.io/2022/determinant_and_matrixoperation/",
         "url" : "http://linn-guo.github.io/2022/determinant_and_matrixoperation/",
-        "content_html" : "\u003ciframe src=\"./pdf/Determinant_and_MatrixOperation_1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Determinant_and_MatrixOperation_1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -145,7 +145,7 @@
         "date_modified" : "2022-08-06T16:52:36+08:00",
         "id" : "http://linn-guo.github.io/2022/determinat_ero/",
         "url" : "http://linn-guo.github.io/2022/determinat_ero/",
-        "content_html" : "\u003ciframe src=\"./pdf/Determinant_and_ElementaryRowOperation.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Determinant_and_ElementaryRowOperation.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003c!-- ## Credit: --\u003e",
         "language": "en"
     },
     {
@@ -154,7 +154,7 @@
         "date_modified" : "2022-08-05T19:27:50+08:00",
         "id" : "http://linn-guo.github.io/2022/matrix_power/",
         "url" : "http://linn-guo.github.io/2022/matrix_power/",
-        "content_html" : "\u003ciframe src=\"./pdf/Powers_Of_Matrices.pdf\" height=\"700px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Powers_Of_Matrices.pdf\" height=\"700px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -163,7 +163,7 @@
         "date_modified" : "2022-08-05T19:20:28+08:00",
         "id" : "http://linn-guo.github.io/2022/matrix_inverse/",
         "url" : "http://linn-guo.github.io/2022/matrix_inverse/",
-        "content_html" : "\u003ciframe src=\"./pdf/Inverse_Of_A_Square_Matrix .pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Inverse_Of_A_Square_Matrix .pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -172,7 +172,7 @@
         "date_modified" : "2022-03-08T21:08:11+08:00",
         "id" : "http://linn-guo.github.io/2022/choices_potential_functions2/",
         "url" : "http://linn-guo.github.io/2022/choices_potential_functions2/",
-        "content_html" : "\u003ciframe src=\"./pdf/choices_potential_functions2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/choices_potential_functions2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -181,7 +181,7 @@
         "date_modified" : "2022-03-08T20:57:40+08:00",
         "id" : "http://linn-guo.github.io/2022/choices_potential_functions1/",
         "url" : "http://linn-guo.github.io/2022/choices_potential_functions1/",
-        "content_html" : "\u003ciframe src=\"./pdf/choices_potential_functions1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/choices_potential_functions1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -190,7 +190,7 @@
         "date_modified" : "2022-03-08T20:19:13+08:00",
         "id" : "http://linn-guo.github.io/2022/generalized_eigenvector/",
         "url" : "http://linn-guo.github.io/2022/generalized_eigenvector/",
-        "content_html" : "\u003ciframe src=\"./pdf/infinitely_generalised_eigenvector.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/infinitely_generalised_eigenvector.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -199,7 +199,7 @@
         "date_modified" : "2022-03-08T19:58:03+08:00",
         "id" : "http://linn-guo.github.io/2022/zero_line_integral/",
         "url" : "http://linn-guo.github.io/2022/zero_line_integral/",
-        "content_html" : "\u003ciframe src=\"./pdf/zero_example_line_integral.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/zero_example_line_integral.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -208,7 +208,7 @@
         "date_modified" : "2022-02-24T21:35:26+08:00",
         "id" : "http://linn-guo.github.io/2022/line_integral/",
         "url" : "http://linn-guo.github.io/2022/line_integral/",
-        "content_html" : "\u003ciframe src=\"./pdf/line_integral_of_vector_field.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Tuan Seng Chew.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/line_integral_of_vector_field.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Tuan Seng Chew.\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -217,7 +217,7 @@
         "date_modified" : "2022-02-13T19:34:33+08:00",
         "id" : "http://linn-guo.github.io/2022/dimesion_eigenspace/",
         "url" : "http://linn-guo.github.io/2022/dimesion_eigenspace/",
-        "content_html" : "\u003ciframe src=\"./pdf/dimension_eigenspace.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/dimension_eigenspace.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -226,7 +226,7 @@
         "date_modified" : "2022-02-13T19:09:33+08:00",
         "id" : "http://linn-guo.github.io/2022/change_basis/",
         "url" : "http://linn-guo.github.io/2022/change_basis/",
-        "content_html" : "\u003ciframe src=\"./pdf/change_of_basis.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/change_of_basis.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -235,7 +235,7 @@
         "date_modified" : "2022-02-02T16:08:39+08:00",
         "id" : "http://linn-guo.github.io/2022/consistent/",
         "url" : "http://linn-guo.github.io/2022/consistent/",
-        "content_html" : "\u003ciframe src=\"./pdf/Always_consistent_system.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Always_consistent_system.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -244,7 +244,7 @@
         "date_modified" : "2022-02-02T09:37:26+08:00",
         "id" : "http://linn-guo.github.io/2022/least_squares_solutions/",
         "url" : "http://linn-guo.github.io/2022/least_squares_solutions/",
-        "content_html" : "\u003ciframe src=\"./pdf/Least_squares_solutions.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Least_squares_solutions.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -273,7 +273,7 @@
         "date_modified" : "2021-12-31T11:23:42+08:00",
         "id" : "http://linn-guo.github.io/2021/green_theorem_1/",
         "url" : "http://linn-guo.github.io/2021/green_theorem_1/",
-        "content_html" : "\u003ciframe src=\"./pdf/Green_theorem_1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Tuan Seng Chew.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Green_theorem_1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Tuan Seng Chew.\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -282,7 +282,7 @@
         "date_modified" : "2021-12-29T15:48:06+08:00",
         "id" : "http://linn-guo.github.io/2021/improper_integral/",
         "url" : "http://linn-guo.github.io/2021/improper_integral/",
-        "content_html" : "\u003ciframe src=\"./pdf/proof_by_iterated_integral.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/proof_by_iterated_integral.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -291,7 +291,7 @@
         "date_modified" : "2021-12-29T15:29:17+08:00",
         "id" : "http://linn-guo.github.io/2021/parabola/",
         "url" : "http://linn-guo.github.io/2021/parabola/",
-        "content_html" : "\u003ciframe src=\"./parabola.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/parabola.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -300,7 +300,7 @@
         "date_modified" : "2021-12-07T10:30:00+08:00",
         "id" : "http://linn-guo.github.io/2021/double_integral_polar_coords_2/",
         "url" : "http://linn-guo.github.io/2021/double_integral_polar_coords_2/",
-        "content_html" : "\u003ciframe src=\"./pdf/Double_Integral_In_Polar_Coords_2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Double_Integral_In_Polar_Coords_2.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e",
         "language": "en"
     },
     {
@@ -309,7 +309,7 @@
         "date_modified" : "2021-12-07T10:00:00+08:00",
         "id" : "http://linn-guo.github.io/2021/double_integral_polar_coords_1/",
         "url" : "http://linn-guo.github.io/2021/double_integral_polar_coords_1/",
-        "content_html" : "\u003ciframe src=\"./pdf/Double_Integral_In_Polar_Coords_1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003e\u003ca href=\"https://zhuanlan.zhihu.com/p/55878203\" target=\"_blank\" rel=\"noopener noreferrer\"\u003ehttps://zhuanlan.zhihu.com/p/55878203\u003c/a\u003e\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Double_Integral_In_Polar_Coords_1.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\r\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003e\u003ca href=\"https://zhuanlan.zhihu.com/p/55878203\" target=\"_blank\" rel=\"noopener noreferrer\"\u003ehttps://zhuanlan.zhihu.com/p/55878203\u003c/a\u003e\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -318,7 +318,7 @@
         "date_modified" : "2021-12-06T17:00:00+08:00",
         "id" : "http://linn-guo.github.io/2021/nature_crit_pts_multivar_func/",
         "url" : "http://linn-guo.github.io/2021/nature_crit_pts_multivar_func/",
-        "content_html" : "\u003ciframe src=\"./pdf/Nature_of_crit_pts_of_multivar_func.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
+        "content_html" : "\u003ciframe src=\"https://linn-guo.github.io/pdf/Nature_of_crit_pts_of_multivar_func.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
         "language": "en"
     },
     {
@@ -338,7 +338,7 @@
         "id" : "http://linn-guo.github.io/2021/exs_lagrange_multiplier_pdf/",
         "url" : "http://linn-guo.github.io/2021/exs_lagrange_multiplier_pdf/",
         "summary": "Four different solutions to one problem.\n",
-        "content_html" : "\u003cp\u003eFour different solutions to one problem.\u003c/p\u003e\n\u003ciframe src=\"./pdf/Exs_on_Lagrange_Multiplier_Method.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
+        "content_html" : "\u003cp\u003eFour different solutions to one problem.\u003c/p\u003e\n\u003ciframe src=\"https://linn-guo.github.io/pdf/Exs_on_Lagrange_Multiplier_Method.pdf\" height=\"1100px\" width=\"100%\"\u003e\u003c/iframe\u003e\n\u003ch2 id=\"credit\" class=\"headerLink\"\u003e\n    \u003ca href=\"#credit\" class=\"header-mark\"\u003e\u003c/a\u003e1 Credit:\u003c/h2\u003e\u003cp\u003eThe question is from Dr. Lim ZhiHan.\u003c/p\u003e",
         "language": "en"
     },
     ]

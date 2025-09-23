@@ -3,7 +3,7 @@
 
 <!--more-->
 
-<iframe src="./pdf/Green_theorem_1.pdf" height="1100px" width="100%"></iframe>
+<iframe src="https://linn-guo.github.io/pdf/Green_theorem_1.pdf" height="1100px" width="100%"></iframe>
 
 ## Credit:
 The question is from Dr. Tuan Seng Chew.

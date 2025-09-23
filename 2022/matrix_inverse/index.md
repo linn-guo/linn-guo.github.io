@@ -3,5 +3,5 @@
 
 <!--more-->
 
-<iframe src="./pdf/Inverse_Of_A_Square_Matrix .pdf" height="1100px" width="100%"></iframe>
+<iframe src="https://linn-guo.github.io/pdf/Inverse_Of_A_Square_Matrix .pdf" height="1100px" width="100%"></iframe>
 

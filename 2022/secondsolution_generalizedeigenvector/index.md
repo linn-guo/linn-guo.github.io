@@ -3,7 +3,7 @@
 
 <!--more-->
 
-<iframe src="./pdf/SecondSolution_GeneralizedEigenvector1.pdf" height="1100px" width="100%"></iframe>
+<iframe src="https://linn-guo.github.io/pdf/SecondSolution_GeneralizedEigenvector1.pdf" height="1100px" width="100%"></iframe>
 
 
 <!-- ## Credit: -->

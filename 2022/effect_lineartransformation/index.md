@@ -2,7 +2,7 @@
 
 
 <!--more-->
-<iframe src="./pdf/Effect_LinearTransformation.pdf" height="1100px" width="100%"></iframe>
+<iframe src="https://linn-guo.github.io/pdf/Effect_LinearTransformation.pdf" height="1100px" width="100%"></iframe>
 
 
 
