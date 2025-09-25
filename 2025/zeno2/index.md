@@ -46,8 +46,8 @@ That's why, within a finite amount of time,
 he can't actually reach the destination.
 
 ### Math Explanation
-- Distance series: $$ \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \dots = 1 ,$$ convergent.
-- Speed: shrinking step size, approaching 0.
+- Distance series: $$ \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \dots = \frac{ \frac{1}{2}}{1- \frac{1}{2}}=1 ,$$ convergent.
+- Speed: shrinking step size, approaching $0$.
 - Conclusion: finite distance, but infinite time → destination never reached.
 
 ## Easter Egg
@@ -61,7 +61,7 @@ That says:
 
 > If you cut a stick in half every day, it will never be used up, even after ten thousand generations.
 
-So still infinitely many actions happening within a finite period at a decreasing speed, then the same story!
+So still infinitely many actions happen within a finite period at a decreasing speed, then, AHA, the same story!
 
 Cheers!
 
