@@ -10,19 +10,19 @@ But… what if we change the rules a little bit, like the daily speed is decreas
 
 <!--more-->
 
-Imagine this:
+> Imagine this:
+>
+> the first day, he walks half of the distance, that is $1/2$. 
+>
+> The second day, he walks half of what’s left, which is $1/4$. 
+>
+> The third day, he goes half of the remainder, which is $1/8$.
+>
+> And it keeps going, and going, and going...”
+>
+> So, will Leo ever reach the treasure?
 
-the first day, he walks half of the distance, that is $1/2$. 
-
-The second day, he walks half of what’s left, which is $1/4$. 
-
-The third day, he goes half of the remainder, which is $1/8$.
-
-And it keeps going, and going, and going...”
-
-So, will Leo ever reach the treasure?
-
-Well, here's the twist: the answer is… NO!
+Well, here's the twist: the answer is… NOPE!
 
 <img src="/img/zeno2.png" align="right" width="100%" alt="caption">
 
