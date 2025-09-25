@@ -37,19 +37,19 @@ The kid: "OHHHH, haha, I get it!"
 
 Now it's fun time for us  big kids! @_@ Let’s see the math explanation.
 
-## Math explanation:
+## Math Explanation:
 
 The trick isn’t only about "Can you get there?" — it’s really about "Can you make it in a limited amount of time?"
 
 After all, nobody in real life keeps walking forever! That’s why looking at the time makes more sense than just adding up the distance.
 
-### Time calculation:
+### Time Calculation:
 
 Let the total distance from $A$ to $B$ be $D$.
 
 Assume motion is at constant speed $v$.
 
-We may slice the journey into infinitely many segments: first cover $D/2$, then $D/4$, then $D/8$ ...
+We may slice the journey into infinitely many segments: first coveMWr $D/2$, then $D/4$, then $D/8$ ...
 
 Let the distance of the n-th segment be: 
 $$d_n = \frac{D}{2^n}, \quad n = 1, 2, 3,…$$
@@ -61,9 +61,23 @@ $$\lim_{n\to\infty} T_n = \frac{1}{v} \lim_{n\to\infty} S_n =  \frac{D}{v}\lim_{
 
 Hence even though you “divide into infinitely many times or steps,” the total time is finite, namely D/v. You arrive at B at time T = D/v. 
 
+### Tips
+Thus the paradox is resolved: infinite subdivision does not force infinite time, because each successive distance moved forward gets smaller and smaller, making the time contributions shrink to zero.
+
 Bingo! ^_^
 
-## 
+## Follow-Up  
+
+Zhuangzi’s Stick
+
+Zhuangzi once said:
+“A foot-long stick, if halved each day, will never be used up.”
+This expresses the idea of infinite divisibility—no matter how many times you cut it in half, there is always something left.
+
+Is that similar to our "treasure hunting", or any contradiction between the two stories?
+
+The story isn’t over yet — let's stay tuned! ^_^
+
 
 
 
