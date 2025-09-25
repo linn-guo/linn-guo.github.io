@@ -48,15 +48,15 @@ Let the total distance from $A$ to $B$ be $D$.
 
 Assume motion is at constant speed $v$.
 
-We may slice the journey into infinitely many segments: first coveMWr $D/2$, then $D/4$, then $D/8$ ...
+We may slice the journey into infinitely many segments: first cover $D/2$, then $D/4$, then $D/8$ ...
 
 Let the distance of the n-th segment be: 
 $$d_n = \frac{D}{2^n}, \quad n = 1, 2, 3,\dots$$
 
 The total time after n segments is 
- $$ T_n = \sum_{k=1}^n t_k = \frac{1}{v} \sum_{k=1}^n d_k = \frac{1}{v} \sum_{k=1}^n  \frac{D}{2^n} =\frac{1}{v} S_n. $$
+ $$ T_n = \sum_{k=1}^n t_k = \frac{1}{v} \sum_{k=1}^n d_k = \frac{1}{v} \sum_{k=1}^n  \frac{D}{2^k} =\frac{1}{v} S_n. $$
  Thus
-$$\lim_{n\to\infty} T_n = \frac{1}{v} \lim_{n\to\infty} S_n =  \frac{D}{v}\lim_{n\to\infty}  \sum_{k=1}^n \frac{1}{2^n} = \frac{D}{v}.$$
+$$\lim_{n\to\infty} T_n = \frac{1}{v} \lim_{n\to\infty} S_n =  \frac{D}{v}\lim_{n\to\infty}  \sum_{k=1}^n \frac{1}{2^k} = \frac{D}{v}.$$
 
 Hence even though you “divide into infinitely many times or steps,” the total time is finite, namely D/v. You arrive at B at time T = D/v. 
 
