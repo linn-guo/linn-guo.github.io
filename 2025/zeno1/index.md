@@ -3,27 +3,25 @@
 
 ## Story Time Twist:
 
-A few days ago, while reading Pedro’s Pirate Treasure to my kid, I made up a new puzzle story:
+A few days ago, while reading _Pedro's Pirate Treasure_ to my kid, I made up a new puzzle story:
 
-
-"Imagine you are the little pirate, Leo.
-One day, you spot a brand-new mark on the treasure map!
-Excited, you set off on your adventure.
-But oh no—the map has a strange spell written on it:
+> Imagine you are the little pirate, Leo.
+> One day, you spot a brand-new mark on the treasure map!
+> Excited, you set off on your adventure.
+> But oh no—the map has a strange spell written on it:
 
 <!--more-->
 
-
-'To reach the treasure, you can only walk half of the distance left each time.
-No faster, no slower.'
-
-So, the first time, you walk half of the distance, that is $1/2$. 
-
-The second time, you walk half of what’s left, which is $1/4$. 
-
-The third time, you go half of the remainder, which is $1/8$.
-
-And it keeps going, and going, and going..."
+> 'To reach the treasure, you can only walk half of the distance left each time.
+> No faster, no slower.'
+> 
+> So, the first time, you walk half of the distance, that is $1/2$. 
+> 
+> The second time, you walk half of what’s left, which is $1/4$. 
+> 
+> The third time, you go half of the remainder, which is $1/8$.
+> 
+> And it keeps going, and going, and going..."
 
 The kid shouted:
 "Oh no! This will never end! Does that mean I can never get there?"
@@ -41,7 +39,8 @@ Now it's fun time for us  big kids! @_@ Let’s see the math explanation.
 
 The trick isn’t only about "Can you get there?" — it’s really about "Can you make it in a limited amount of time?"
 
-After all, nobody in real life keeps walking forever! That’s why looking at the time makes more sense than just adding up the distance.
+After all, nobody in real life keeps walking forever!
+That’s why looking at the time makes more sense than just adding up the distance.
 
 ### Time Calculation:
 
@@ -52,7 +51,7 @@ Assume motion is at constant speed $v$.
 We may slice the journey into infinitely many segments: first coveMWr $D/2$, then $D/4$, then $D/8$ ...
 
 Let the distance of the n-th segment be: 
-$$d_n = \frac{D}{2^n}, \quad n = 1, 2, 3,…$$
+$$d_n = \frac{D}{2^n}, \quad n = 1, 2, 3,\dots$$
 
 The total time after n segments is 
  $$ T_n = \sum_{k=1}^n t_k = \frac{1}{v} \sum_{k=1}^n d_k = \frac{1}{v} \sum_{k=1}^n  \frac{D}{2^n} =\frac{1}{v} S_n. $$
@@ -76,12 +75,5 @@ This expresses the idea of infinite divisibility—no matter how many times you 
 
 Is that similar to our "treasure hunting", or any contradiction between the two stories?
 
-The story isn’t over yet — let's stay tuned! ^_^
-
-
-
-
-
- 
-
+The story isn't over yet — let's stay tuned! ^_^
 
