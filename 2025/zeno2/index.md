@@ -14,7 +14,7 @@ But… what if we change the rules a little bit, like the daily speed is decreas
 >
 > the first day, he walks half of the distance, that is $1/2$. 
 >
-> The second day, he walks half of what’s left, which is $1/4$. 
+> The second day, he walks half of what's left, which is $1/4$. 
 >
 > The third day, he goes half of the remainder, which is $1/8$.
 >
@@ -38,10 +38,12 @@ Even though he looks so close to the treasure, the time he needs, boom boom, str
 
 ### Intuitive Explanation
 Leo keeps moving forward, but each day he covers less and less distance.
-In other words, his speed keeps slowing down, so the total time he needs becomes longer and longer. 
+In other words, his speed keeps slowing down,
+so the total time he needs becomes longer and longer. 
 
 But in real life, nobody walks forever!
-That's why, within a finite amount of time, he can’t actually reach the destination.
+That's why, within a finite amount of time,
+he can't actually reach the destination.
 
 ### Math Explanation
 - Distance series: $$ \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \dots = 1 ,$$ convergent.
@@ -50,6 +52,7 @@ That's why, within a finite amount of time, he can’t actually reach the destin
 
 ## Easter Egg
 And guess what? This isn't just a math puzzle — it's an ancient idea too!
+
 Over 2,000 years ago, the Chinese philosopher Zhuangzi wrote:
 
 > 一尺之棰， 日取其半，万世不竭。--《庄子·杂篇·天下》
