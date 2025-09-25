@@ -68,7 +68,7 @@ Bingo! ^_^
 
 ## Follow-Up  
 
-Zhuangzi’s Stick
+Zhuangzi's Stick
 
 Zhuangzi once said:
 “A foot-long stick, if halved each day, will never be used up.”
