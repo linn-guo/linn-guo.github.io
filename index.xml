@@ -4,14 +4,23 @@
         <link>http://linn-guo.github.io/</link>
         <description>Welcome to Lynn G&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 23 Sep 2025 13:49:04 &#43;0800</lastBuildDate>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 25 Sep 2025 14:03:57 &#43;0800</lastBuildDate>
             <atom:link href="http://linn-guo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Treasure Hunting ---Zeno&#39;s Paradox (1)</title>
-    <link>http://linn-guo.github.io/2025/kids_university/</link>
+    <title>title</title>
+    <link>http://linn-guo.github.io/2025/zeno2/</link>
+    <pubDate>Thu, 25 Sep 2025 14:03:57 &#43;0800</pubDate><author>
+        <name>Lynn G</name>
+    </author><guid>http://linn-guo.github.io/2025/zeno2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/zhuangzi.webp" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Treasure Hunting ---Zeno Phenomenon (1)</title>
+    <link>http://linn-guo.github.io/2025/zeno1/</link>
     <pubDate>Tue, 23 Sep 2025 13:49:04 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2025/kids_university/</guid>
+    </author><guid>http://linn-guo.github.io/2025/zeno1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/zeno1_1.webp" referrerpolicy="no-referrer">
             </div><h2 id="story-time-twist" class="headerLink">
@@ -83,13 +92,6 @@ where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,
     <pubDate>Thu, 01 Sep 2022 20:07:31 &#43;0800</pubDate><author>
         <name>Lynn G</name>
     </author><guid>http://linn-guo.github.io/2022/discussion_diagonalizablematrix/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Why can we use eigenvalue 0 to determine singularity of Matrices?</title>
-    <link>http://linn-guo.github.io/2022/eigenvalue_singularity/</link>
-    <pubDate>Thu, 01 Sep 2022 19:49:28 &#43;0800</pubDate><author>
-        <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/eigenvalue_singularity/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
