@@ -21,7 +21,7 @@ But when we finished the story — yeah, you caught me — I just couldn't resis
 >
 > And so it goes — every time the rabbit got close, the tortoise was just a little farther ahead!
 
-At this point, the kid's eyes went wide:  "Wait, what? Does that mean the rabbit will never catch the tortoise?"
+At this point, the kid's eyes went wide:  "Wait, what? Does that mean the rabbit can never catch the tortoise?"
 
 Is that possible? Or is there a deeper trick hiding here?
 
