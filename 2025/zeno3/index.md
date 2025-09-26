@@ -1,4 +1,4 @@
-# The Tortoise and the Hare --- Zeno Behavior (2)
+# The Tortoise and The Hare --- Zeno Phenomenon (2)
 
 ## Story Time Twist 
 The other night, I was reading The Tortoise and the Hare with my kid.
@@ -43,7 +43,16 @@ I nodded, with a gentle grin:
 
 " Yep! The faster one always catches the slower one in a finite amount of time… even if it feels like you're chasing again, and again, and again."
 
-Alight, fun time for us  big kids -- ready,steady, go!
+## The "Trap" of Zeno Phenomenon
+
+In the story, every time the rabbit gets to where the tortoise was, the tortoise has already moved a tiny bit ahead. It feels like the rabbit is always just a little too late, and can never catch up!
+
+This is the very 'trap' of Zeno's paradox: mixing up infinitely many chasing steps with an infinitely long amount of time. 
+
+Up next, let’s bring in the idea of limits to reveal the surprise: even with infinitely many steps, the total time is actually finite!
+
+
+Alight, fun time for us  big kids -- ready, go!
 
 ## Math Explanation
 
