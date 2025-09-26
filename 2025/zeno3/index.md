@@ -27,16 +27,23 @@ Is that possible? Or is there a deeper trick hiding here?
 
 ## Intuitive Explanation
 
-I gave a little mysterious smile and said,
+I gave a little mysterious smile,
+
 “Hey, remember when you  raced with your friend Andy last week? He dashed ahead quite a long way while you weren’t looking. And… what happened then?”
 
-My kid jumped in right away, full of confidence: “I caught him! Because I was much faster — and I even passed him!”
+My kid jumped in right away, full of confidence:
 
-Then he slapped his forehead like he'd just solved the biggest puzzle: “Ohhh—so the rabbit can definitely catch the tortoise!”
+ "I caught him! Because I was much faster — and I even passed him!"
 
-I nodded, with a gentle grin: “ Yep!The faster one always catches the slower one in a finite amount of time… even if it looks like you're chasing again, and again, and again.”
+Then he slapped his forehead like he'd just solved the biggest puzzle:
 
-All right, fun time for us  big kids -- Ready? Steady? Go!
+ "OHHHH—so the rabbit can catch the tortoise after all!"
+
+I nodded, with a gentle grin: 
+
+" Yep! The faster one always catches the slower one in a finite amount of time… even if it feels like you're chasing again, and again, and again."
+
+Alight, fun time for us  big kids -- ready,steady, go!
 
 ## Math Explanation
 
