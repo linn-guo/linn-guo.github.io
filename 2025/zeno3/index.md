@@ -78,7 +78,7 @@ $$T = \frac{D}{v_A} \cdot \frac{v_A}{v_A - v_T} = \frac{D}{v_A - v_T}.$$
 
 That is a finite positive time. After that time $T$, the rabbit catches up.
 
-##Closing
+## Closing
 
 Just like the race between the Tortoise and the Hare, or that treasure hunt we talked about earlier with steady speed, the idea of infinitely many events fitting into a limited time is what we call a Zeno behavior.
 
