@@ -41,7 +41,7 @@ Then he slapped his forehead like he'd just solved the biggest puzzle:
 
 I nodded, with a gentle grin: 
 
-" Yep! The faster one always catches the slower one in a amount of time… even if it feels like you're chasing again, and again, and again."
+" Yep! The faster one always catches the slower one in an amount of time… even if it feels like you're chasing again, and again, and again."
 
 ## The "Trap" of Zeno Phenomenon
 
