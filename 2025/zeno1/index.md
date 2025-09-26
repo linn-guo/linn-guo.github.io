@@ -1,4 +1,4 @@
-# Treasure Hunting ---Zeno Phenomenon (1)
+# Treasure Hunting ---Zeno Behavior (1)
 
 
 ## Story Time Twist:
