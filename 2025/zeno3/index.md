@@ -4,7 +4,7 @@
 The other night, I was reading The Tortoise and the Hare with my kid.
 You know the ending — the rabbit takes a nap, the tortoise keeps going, and… yep, the tortoise wins. Classic.
 
-But when we finished the story — yeah, you caught me — I just couldn't resist adding a twist: " What if the very next day… they raced again?"
+But when we finished the story — yeah, you caught me — I just couldn't resist adding a twist: " What if the very next day… they race again?"
 
 <!--more-->
 
@@ -17,9 +17,9 @@ But when we finished the story — yeah, you caught me — I just couldn't resis
 >
 > The rabbit keeps running fast and quickly caught up the 10 meters ... only to see the tortoise has moved ahead by 1 more meter.
 >
-> The rabbit tried again. He ran that 1 meter in almost no time… but the tortoise had gone 0.1 meter farther...
+> The rabbit tries again. He runs that 1 meter in almost no time… but the tortoise has gone 0.1 meter farther...
 >
-> And so it goes — every time the rabbit got close, the tortoise was just a little farther ahead!
+> And so it goes — every time the rabbit gets close, the tortoise is just a little farther ahead!
 
 At this point, the kid's eyes went wide:  "Wait, what? Does that mean the rabbit can never catch the tortoise?"
 
