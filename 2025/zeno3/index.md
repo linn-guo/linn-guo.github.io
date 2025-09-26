@@ -15,13 +15,13 @@ But when we finished the story — yeah, you caught me — I just couldn't resis
 >
 > Whoooosh! The rabbit blasts off and quickly covers that 100 meters. But when he hits the tortoise's starting line — guess what? the tortoise has crawled 10 meters farther.
 >
-> The rabbit speeds up, and closes that 10-meter gap in no time ... only to see the tortoise has moved ahead by 1 more meter.
+> The rabbit keeps running fast and quickly caught up the 10 meters ... only to see the tortoise has moved ahead by 1 more meter.
 >
-> The rabbit again rushes to catch that 1 meter, but the tortoise has slipped another 0.1 meter forward…
+> The rabbit tried again. He ran that 1 meter in almost no time… but the tortoise had gone 0.1 meter farther...
 >
-> And so it goes — every time the rabbit is about to catch up, the tortoise has already moved just a little bit farther. 
+> And so it goes — every time the rabbit got close, the tortoise was just a little farther ahead!
 
-At this point, the kid's eyes widened:  "Wait, what? Does that mean the rabbit can never catch the tortoise?"
+At this point, the kid's eyes went wide:  "Wait, what? Does that mean the rabbit will never catch the tortoise?"
 
 Is that possible? Or is there a deeper trick hiding here?
 
