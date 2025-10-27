@@ -22,6 +22,8 @@ Just a quick bend along the crust toward the center, and magically, the floppy s
   <img src="/img/gaussian1.png" width="30%"/>
 </p>
 
+But here’s the wild part — that little fold isn’t just a clever eating hack. It also hides a beautiful piece of geometry — Gaussian curvature.
+
 ## Gaussian Curvature
 
 Picture that slice of pizza in your hand.
@@ -61,11 +63,13 @@ That is, even after the fold, it still belongs to the geometric world of plane.
 
 Why does a folded pizza suddenly become strong enough to hold all that gooey cheese and sauce?
 
-From a mathematical point of view, the pizza's Gaussian curvature K stays at zero — both before and after you fold it.
+From a mathematical point of view, the pizza's Gaussian curvature $K=0 $, both before and after you fold it.
 
-But here's the cool part: when you fold the slice along one direction, turning it into a neat little “V” shape, something interesting happens:
-- In the direction across the fold, the pizza bends — so $k_1 \neq 0$.
-- Hence, along the fold curve itself, $k_2 = 0$, meaning, that fold curve is a straight line, staying perfectly flat.
+Then  when you fold the slice along one direction, turning it into a neat little “V” shape, something interesting happens:
+
+- In the direction across the fold, the pizza bends, which means $k_1 \neq 0$.
+
+- Hence, along the fold curve itself, it must be $k_2 = 0$, meaning, that fold curve is a straight line, staying perfectly flat.
 
 <p align="center">
   <img src="/img/gaussian3.png" width="30%"/>
@@ -103,9 +107,14 @@ That means it refuses to lie flat — you can't turn it into a plane without str
 This also explains why a perfectly distortion-free world map is impossible.
 
 The Earth's surface is curved — it has positive Gaussian curvature — while paper has zero curvature. 
-And by Gauss's Remarkable Theorem, bending without stretching doesn't change curvature. So when we try to project our round planet onto a flat map, something has to give — area, shape, or distance will always end up distorted.
 
-Not a design flaw — just mathematics doing its thing
+And by Gauss's Remarkable Theorem, 
+
+> bending without stretching doesn't change curvature.
+
+So when we try to project our round planet onto a flat map, something has to give — area, shape, or distance will always end up distorted.
+
+Not a design flaw — just mathematics doing its thing!
 
 ## From Pizza to the Cosmos 
 
@@ -115,12 +124,11 @@ A century after Gauss, Albert Einstein took this elegant idea and used it to bui
 
 And that curvature? It's described using the very same mathematics — Riemannian geometry, the higher-dimensional extension of Gauss's work on surfaces.
 
-Gauss exlored how a two-dimensional surface bends.
-
-Einstein took that idea and expanded it to a four-dimensional universe.
+Gauss explored how a two-dimensional surface bends. Einstein took that idea and expanded it to a four-dimensional universe.
 
 So in a wonderfully literal way,
 the way a slice of pizza folds and the way the universe curves are part of the same mathematical story — one you can taste,
 and one you can marvel at among the stars.
+
 Cheers!
 
