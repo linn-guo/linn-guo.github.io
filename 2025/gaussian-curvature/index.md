@@ -118,17 +118,27 @@ Not a design flaw — just mathematics doing its thing!
 
 ## From Pizza to the Cosmos 
 
-Gaussian curvature isn't just a neat geometric curiosity — it's one of the cornerstones of modern physics.
+Gaussian curvature isn't just a neat geometric curiosity — it's one of the cornerstones of modern physics！
 
 A century after Gauss, Albert Einstein took this elegant idea and used it to build General Relativity. In Einstein's universe, gravity isn't some invisible force tugging at planets and stars — it's the curvature of spacetime itself.
 
+<p align="center">
+    <img src="/img/general_relativity.png" width="60%"">
+</p>
+(Image Original: Mysid Derivative work: Waddie96 )
+
 And that curvature? It's described using the very same mathematics — Riemannian geometry, the higher-dimensional extension of Gauss's work on surfaces.
 
-Gauss explored how a two-dimensional surface bends. Einstein took that idea and expanded it to a four-dimensional universe.
+Gauss explored how a two-dimensional surface bends. Einstein took that idea and expanded it to a four-dimensional spacetime.
 
 So in a wonderfully literal way,
-the way a slice of pizza folds and the way the universe curves are part of the same mathematical story — one you can taste,
+the way a slice of pizza folds and the way the universe bends are part of the same mathematical story — one you can taste,
 and one you can marvel at among the stars.
 
 Cheers!
+
+## Reference
+- https://en.wikipedia.org/wiki/Theorema_Egregium
+- https://en.wikipedia.org/wiki/General_relativity
+- https://en.wikipedia.org/wiki/Developable_surface
 
