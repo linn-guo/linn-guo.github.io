@@ -2,32 +2,33 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://linn-guo.github.io/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/categories/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/differential-geometry/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/2025/gaussian-curvature/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/categories/fun-math/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/gauss/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/gaussian-curvature/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/pizza-fold/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/posts/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/remarkable-theorem/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/big-kids/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/limits/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/little-kids/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/series/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/2025/zeno3/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/zeno-paradox/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/tags/zeno/</loc><lastmod>2025-09-25T14:03:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/2025/zeno2/</loc><lastmod>2025-09-25T14:03:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://linn-guo.github.io/2025/zeno1/</loc><lastmod>2025-09-23T13:49:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>http://linn-guo.github.io/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/categories/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/differential-geometry/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/2025/gaussian-curvature/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/categories/fun-math/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/gauss/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/gaussian-curvature/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/pizza-fold/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/posts/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/remarkable-theorem/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/</loc><lastmod>2025-10-27T18:50:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/big-kids/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/limits/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/little-kids/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/series/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/2025/zeno3/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/zeno-paradox/</loc><lastmod>2025-09-26T13:37:25&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/tags/zeno/</loc><lastmod>2025-09-25T14:03:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/2025/zeno2/</loc><lastmod>2025-09-25T14:03:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/2025/zeno1/</loc><lastmod>2025-09-23T13:49:04&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/categories/calculus/</loc><lastmod>2023-02-23T10:17:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/green-theorem/</loc><lastmod>2023-02-23T10:17:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/line-integral/</loc><lastmod>2023-02-23T10:17:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/2023/green_theorem_4/</loc><lastmod>2023-02-23T10:17:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/vector-field/</loc><lastmod>2023-02-23T10:17:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/2022/workdone_nonconstantforce/</loc><lastmod>2022-10-10T11:38:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://linn-guo.github.io/categories/ib/a-level-math/</loc><lastmod>2022-10-10T11:38:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/work-done/</loc><lastmod>2022-10-10T11:38:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</loc><lastmod>2022-10-10T11:31:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/ellipse/</loc><lastmod>2022-10-10T11:31:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -98,7 +99,6 @@
             <loc>http://linn-guo.github.io/2021/improper_integral/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/iterated-integral/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/polar-coordinates/</loc><lastmod>2021-12-29T15:48:06&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://linn-guo.github.io/categories/a-level-math/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/2021/parabola/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/parabola/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://linn-guo.github.io/tags/tangent-line/</loc><lastmod>2021-12-29T15:29:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
